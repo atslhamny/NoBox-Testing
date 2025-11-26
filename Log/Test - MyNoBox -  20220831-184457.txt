@@ -1,0 +1,65 @@
+2022-08-31 18:45:22.535 +07:00 [ERR] 2 Value does not fall within the expected range.
+2022-08-31 18:45:24.390 +07:00 [INF] -N-AutoLogin-Blank Password-PASS
+2022-08-31 18:45:27.917 +07:00 [INF] -N-AutoLogin-Wrong Password-PASS
+2022-08-31 18:45:30.535 +07:00 [INF] -N-AutoLogin-Login No Captha-PASS
+2022-08-31 18:45:41.672 +07:00 [INF] -P-Auto Login-PASS
+2022-08-31 18:46:11.469 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-31 18:47:02.359 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-31 18:47:04.814 +07:00 [INF] - P - Campaigns - Read - PASS
+2022-08-31 18:47:05.591 +07:00 [INF] - P - Campaigns - Update - PASS
+2022-08-31 18:47:07.927 +07:00 [INF] - P - Campaigns - Delete - PASS
+2022-08-31 18:47:11.052 +07:00 [INF] - P - Campaigns Fitur - Channel Search - PASS
+2022-08-31 18:47:13.654 +07:00 [INF] - P - Campaigns Fitur - Status Search - PASS
+2022-08-31 18:47:31.351 +07:00 [INF] - P - Campaigns Fitur - Account Search-PASS
+2022-08-31 18:47:38.040 +07:00 [INF] - P - Campaigns Fitur - List Search - PASS
+2022-08-31 18:47:40.774 +07:00 [INF] - P - Campaigns Fitur - Tags Search - PASS
+2022-08-31 18:47:52.932 +07:00 [INF] - P - Campaigns Fitur - Process To Done- PASS
+2022-08-31 18:47:57.814 +07:00 [ERR] 0 Node is either not visible or not an HTMLElement
+2022-08-31 18:48:04.137 +07:00 [INF] - P - Campaigns Fitur - Clone - PASS
+2022-08-31 18:48:09.372 +07:00 [INF] - P - Broadcast Message Fitur - Filter Campaigns - PASS
+2022-08-31 18:48:12.409 +07:00 [INF] - P - Broadcast Message Fitur - Filter Contact - PASS
+2022-08-31 18:48:14.894 +07:00 [INF] - P - Broadcast Message Fitur - Filter Status - PASS
+2022-08-31 18:48:17.390 +07:00 [INF] - P - Broadcast Message Fitur - Filter Tags - PASS
+2022-08-31 18:48:20.092 +07:00 [INF] - P - Broadcast Message Fitur - Process By - PASS
+2022-08-31 18:48:23.503 +07:00 [INF] - P - Broadcast Message Fitur - Is Read - PASS
+2022-08-31 18:48:25.946 +07:00 [INF] - P - Broadcast Message Fitur - VCard - PASS
+2022-08-31 18:48:44.097 +07:00 [INF] - P - Message Template - Insert - PASS
+2022-08-31 18:48:45.379 +07:00 [INF] - P - Message Template - Read - PASS
+2022-08-31 18:48:46.329 +07:00 [INF] -P-Message Template  - Update - PASS
+2022-08-31 18:48:47.930 +07:00 [INF] - P - Message Template - Delete - PASS
+2022-08-31 18:48:50.829 +07:00 [INF] - P - Message Template Fitur - Search Channel - PASS
+2022-08-31 18:48:55.516 +07:00 [INF] - P - Campaigns - Tags - Insert - PASS
+2022-08-31 18:48:56.629 +07:00 [INF] - P - Campaigns - Tags - Read - PASS
+2022-08-31 18:48:57.113 +07:00 [INF] - P - Campaigns -Tags - Update - PASS
+2022-08-31 18:48:58.819 +07:00 [INF] - P - Campaigns - Tags - Delete - PASS
+2022-08-31 18:49:18.752 +07:00 [INF] - P - Contacts -Insert - PASS
+2022-08-31 18:49:19.998 +07:00 [INF] - P - Contacts - Read - PASS
+2022-08-31 18:49:20.505 +07:00 [INF] - P - Contacts - Update - PASS
+2022-08-31 18:49:23.827 +07:00 [INF] - P - Contacts - Delete - PASS
+2022-08-31 18:49:24.985 +07:00 [INF] - P - Contacts Fitur - Filter Category - PASS
+2022-08-31 18:49:27.704 +07:00 [INF] - P - Contacts Fitur - Filter Country - PASS
+2022-08-31 18:49:30.117 +07:00 [INF] - P - Contacts Fitur - Filter State - PASS
+2022-08-31 18:49:32.561 +07:00 [INF] - P - Contacts Fitur - Filter City - PASS
+2022-08-31 18:49:34.856 +07:00 [INF] - P - Contacts Fitur - Filter Tool - PASS
+2022-08-31 18:49:37.206 +07:00 [INF] - P - Contacts Fitur - Filter List - PASS
+2022-08-31 18:49:39.656 +07:00 [INF] - P - Contacts Fitur - Filter Tags - PASS
+2022-08-31 18:49:39.779 +07:00 [INF] - P - Contacts Fitur - Google Contacts - PASS
+2022-08-31 18:50:11.023 +07:00 [ERR] 1 waiting for XPath '//div[@class='slick-cell l0 r0']/a' failed: timeout 30000 ms exceeded
+2022-08-31 18:50:15.494 +07:00 [INF] - P - List - Insert - PASS
+2022-08-31 18:50:16.864 +07:00 [INF] - P - List - Read - PASS
+2022-08-31 18:50:17.413 +07:00 [INF] - P - List - Update - PASS
+2022-08-31 18:50:20.060 +07:00 [INF] -P-List Fitur-Add From Contact-PASS
+2022-08-31 18:50:23.789 +07:00 [INF] -P-List Fitur-Add From Campaigns Target-PASS
+2022-08-31 18:50:25.407 +07:00 [INF] -P-List Fitur-Delete All Contact-PASS
+2022-08-31 18:50:25.856 +07:00 [INF] -P-List Fitur-Delete-PASS
+2022-08-31 18:50:29.362 +07:00 [INF] -P-Contact Tags-Insert-PASS
+2022-08-31 18:50:30.503 +07:00 [INF] -P-Contact Tags-Read-PASS
+2022-08-31 18:50:31.126 +07:00 [INF] -P-Contact Tags-Update-PASS
+2022-08-31 18:50:32.493 +07:00 [INF] -P-Contact Tags-Delete:
+2022-08-31 18:50:53.561 +07:00 [INF] - P - Account - Insert - PASS
+2022-08-31 18:50:54.805 +07:00 [INF] - P - Account - Read - PASS
+2022-08-31 18:50:55.477 +07:00 [INF] - P - Account - Update - PASS
+2022-08-31 18:50:57.338 +07:00 [INF] - P - Account - Delete - PASS
+2022-08-31 18:50:59.974 +07:00 [INF] - P - Account Fitur - Search Category-PASS
+2022-08-31 18:51:02.456 +07:00 [INF] - P - Account Fitur - Search Users - PASS
+2022-08-31 18:51:08.352 +07:00 [INF] - P - Account Fitur - Search Status - PASS

@@ -1,0 +1,5 @@
+2022-08-29 14:51:45.332 +07:00 [INF] -P-Auto Login-PASS
+2022-08-29 14:51:57.526 +07:00 [INF] - N - Account - Insert - PASS
+2022-08-29 14:52:00.365 +07:00 [INF] - P - Account - Insert - PASS
+2022-08-29 14:52:01.785 +07:00 [INF] - P - Account - Read - PASS
+2022-08-29 14:52:01.981 +07:00 [INF] - P - Account - Update - PASS

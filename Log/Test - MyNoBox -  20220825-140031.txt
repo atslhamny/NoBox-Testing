@@ -1,0 +1,17 @@
+2022-08-25 14:01:38.710 +07:00 [INF] -P-Campaigns-Insert-PASS
+2022-08-25 14:01:39.736 +07:00 [INF] 1 Node is detached from document
+2022-08-25 14:02:10.019 +07:00 [INF] 0 waiting for XPath '//div[contains(@class, 'save-and-close-button')]' failed: timeout 30000 ms exceeded
+2022-08-25 14:02:12.380 +07:00 [INF] -P-Campaigns-Delete-PASS
+2022-08-25 14:02:13.764 +07:00 [INF] -P-Campaigns Fitur-Search-PASS
+2022-08-25 14:02:14.081 +07:00 [INF] -P-Campaigns Fitur-ChannelSearch-PASS
+2022-08-25 14:02:14.642 +07:00 [INF] -P-Campaigns Fitur-StatusSearch-PASS
+2022-08-25 14:02:15.133 +07:00 [INF] 1 Node is detached from document
+2022-08-25 14:02:15.451 +07:00 [INF] -P-Campaigns Fitur-ListSearch-PASS
+2022-08-25 14:02:15.811 +07:00 [INF] -P-Campaigns Fitur-TagsSearch-PASS
+2022-08-25 14:02:15.849 +07:00 [INF] -P-Campaigns Fitur-Refresh-PASS
+2022-08-25 14:02:16.571 +07:00 [INF] -P-Campaigns Fitur-ColumnPicker-PASS
+2022-08-25 14:02:17.022 +07:00 [INF] -P-Campaigns Fitur-Restore-PASS
+2022-08-25 14:02:17.394 +07:00 [INF] -P-Campaigns Fitur-Excel-PASS
+2022-08-25 14:02:18.034 +07:00 [INF] -P-Campaigns Fitur-PDF-PASS
+2022-08-25 14:02:18.135 +07:00 [INF] -P-Campaigns Fitur-AutoRefresh-PASS
+2022-08-25 14:02:21.780 +07:00 [INF] 2 Node is either not visible or not an HTMLElement

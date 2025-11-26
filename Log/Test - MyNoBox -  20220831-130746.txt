@@ -1,0 +1,60 @@
+2022-08-31 13:09:36.992 +07:00 [INF] -P-Auto Login-PASS
+2022-08-31 13:11:19.696 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-31 13:11:22.044 +07:00 [INF] - P - Campaigns - Read - PASS
+2022-08-31 13:11:23.303 +07:00 [INF] - P - Campaigns - Update - PASS
+2022-08-31 13:11:25.181 +07:00 [ERR] 3 Node is either not visible or not an HTMLElement
+2022-08-31 13:11:27.761 +07:00 [INF] - P - Campaigns Fitur - Channel Search - PASS
+2022-08-31 13:11:30.609 +07:00 [INF] - P - Campaigns Fitur - Status Search - PASS
+2022-08-31 13:11:32.895 +07:00 [INF] - P - Campaigns Fitur - Account Search-PASS
+2022-08-31 13:11:35.818 +07:00 [INF] - P - Campaigns Fitur - List Search - PASS
+2022-08-31 13:11:38.545 +07:00 [INF] - P - Campaigns Fitur - Tags Search - PASS
+2022-08-31 13:11:54.463 +07:00 [INF] - P - Campaigns Fitur - Process To Done- PASS
+2022-08-31 13:12:02.654 +07:00 [ERR] 0 Node is either not visible or not an HTMLElement
+2022-08-31 13:12:10.502 +07:00 [INF] - P - Campaigns Fitur - Clone - PASS
+2022-08-31 13:12:16.054 +07:00 [INF] - P - Broadcast Message Fitur - Filter Campaigns - PASS
+2022-08-31 13:12:18.593 +07:00 [INF] - P - Broadcast Message Fitur - Filter Contact - PASS
+2022-08-31 13:12:21.027 +07:00 [INF] - P - Broadcast Message Fitur - Filter Status - PASS
+2022-08-31 13:12:23.635 +07:00 [INF] - P - Broadcast Message Fitur - Filter Tags - PASS
+2022-08-31 13:12:26.406 +07:00 [INF] - P - Broadcast Message Fitur - Process By - PASS
+2022-08-31 13:12:59.192 +07:00 [ERR] 5 waiting for XPath '//div[@id='s2id_Nobox_Nobox_CampaignresultBroadcastGrid0_QuickFilter_IsRead']//abbr' failed: timeout 30000 ms exceeded
+2022-08-31 13:13:29.495 +07:00 [ERR] 2 waiting for XPath '//div[@class='slick-cell l1 r1']/a' failed: timeout 30000 ms exceeded
+2022-08-31 13:13:43.772 +07:00 [INF] - P - Message Template - Insert - PASS
+2022-08-31 13:13:45.293 +07:00 [INF] - P - Message Template - Read - PASS
+2022-08-31 13:13:45.835 +07:00 [INF] -P-Message Template  - Update - PASS
+2022-08-31 13:13:47.425 +07:00 [INF] - P - Message Template - Delete - PASS
+2022-08-31 13:13:50.215 +07:00 [INF] - P - Message Template Fitur - Search Channel - PASS
+2022-08-31 13:13:55.825 +07:00 [INF] - P - Campaigns - Tags - Insert - PASS
+2022-08-31 13:13:57.016 +07:00 [INF] - P - Campaigns - Tags - Read - PASS
+2022-08-31 13:13:57.555 +07:00 [INF] - P - Campaigns -Tags - Update - PASS
+2022-08-31 13:13:59.053 +07:00 [INF] - P - Campaigns - Tags - Delete - PASS
+2022-08-31 13:14:19.129 +07:00 [INF] - P - Contacts -Insert - PASS
+2022-08-31 13:14:31.364 +07:00 [INF] - P - Contacts - Read - PASS
+2022-08-31 13:14:32.294 +07:00 [INF] - P - Contacts - Update - PASS
+2022-08-31 13:14:35.865 +07:00 [INF] - P - Contacts - Delete - PASS
+2022-08-31 13:14:37.051 +07:00 [INF] - P - Contacts Fitur - Filter Category - PASS
+2022-08-31 13:14:40.178 +07:00 [INF] - P - Contacts Fitur - Filter Country - PASS
+2022-08-31 13:14:42.864 +07:00 [INF] - P - Contacts Fitur - Filter State - PASS
+2022-08-31 13:14:45.340 +07:00 [INF] - P - Contacts Fitur - Filter City - PASS
+2022-08-31 13:14:47.693 +07:00 [INF] - P - Contacts Fitur - Filter Tool - PASS
+2022-08-31 13:14:50.123 +07:00 [INF] - P - Contacts Fitur - Filter List - PASS
+2022-08-31 13:14:52.619 +07:00 [INF] - P - Contacts Fitur - Filter Tags - PASS
+2022-08-31 13:14:52.753 +07:00 [INF] - P - Contacts Fitur - Google Contacts - PASS
+2022-08-31 13:15:23.934 +07:00 [ERR] 1 waiting for XPath '//div[@class='slick-cell l0 r0']/a' failed: timeout 30000 ms exceeded
+2022-08-31 13:15:27.921 +07:00 [INF] - P - List - Insert - PASS
+2022-08-31 13:15:29.220 +07:00 [INF] - P - List - Read - PASS
+2022-08-31 13:15:29.878 +07:00 [INF] - P - List - Update - PASS
+2022-08-31 13:15:32.510 +07:00 [INF] -P-List Fitur-Add From Contact-PASS
+2022-08-31 13:15:35.394 +07:00 [INF] -P-List Fitur-Add From Campaigns Target-PASS
+2022-08-31 13:15:36.632 +07:00 [INF] -P-List Fitur-Delete All Contact-PASS
+2022-08-31 13:15:37.149 +07:00 [INF] -P-List Fitur-Delete-PASS
+2022-08-31 13:15:40.308 +07:00 [INF] -P-Contact Tags-Insert-PASS
+2022-08-31 13:15:41.506 +07:00 [INF] -P-Contact Tags-Read-PASS
+2022-08-31 13:15:42.031 +07:00 [INF] -P-Contact Tags-Update-PASS
+2022-08-31 13:15:43.374 +07:00 [INF] -P-Contact Tags-Delete:
+2022-08-31 13:16:02.268 +07:00 [INF] - P - Account - Insert - PASS
+2022-08-31 13:16:03.442 +07:00 [INF] - P - Account - Read - PASS
+2022-08-31 13:16:04.158 +07:00 [INF] - P - Account - Update - PASS
+2022-08-31 13:16:06.182 +07:00 [INF] - P - Account - Delete - PASS
+2022-08-31 13:16:08.822 +07:00 [INF] - P - Account Fitur - Search Category-PASS
+2022-08-31 13:16:11.310 +07:00 [INF] - P - Account Fitur - Search Users - PASS
+2022-08-31 13:16:13.714 +07:00 [INF] - P - Account Fitur - Search Status - PASS

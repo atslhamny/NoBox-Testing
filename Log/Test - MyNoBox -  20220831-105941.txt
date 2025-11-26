@@ -1,0 +1,7 @@
+2022-08-31 11:00:58.726 +07:00 [INF] - P - Account - Insert - PASS
+2022-08-31 11:00:59.982 +07:00 [INF] - P - Account - Read - PASS
+2022-08-31 11:01:01.301 +07:00 [INF] - P - Account - Update - PASS
+2022-08-31 11:01:32.734 +07:00 [ERR] 3 waiting for XPath '//div[@class='slick-cell l0 r0']/a' failed: timeout 30000 ms exceeded
+2022-08-31 11:01:35.299 +07:00 [INF] - P - Account Fitur - Search Category-PASS
+2022-08-31 11:01:37.726 +07:00 [INF] - P - Account Fitur - Search Users - PASS
+2022-08-31 11:01:40.307 +07:00 [INF] - P - Account Fitur - Search Status - PASS

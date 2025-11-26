@@ -1,0 +1,34 @@
+2022-08-25 14:25:12.108 +07:00 [INF] -P-Campaigns-Insert-PASS
+2022-08-25 14:25:14.077 +07:00 [INF] -P-Campaigns-Read-PASS
+2022-08-25 14:25:14.823 +07:00 [INF] -P-Campaigns-Update-PASS
+2022-08-25 14:25:46.318 +07:00 [INF] 4 waiting for XPath '//div[contains(@class, 'delete-button')]' failed: timeout 30000 ms exceeded
+2022-08-25 14:25:46.653 +07:00 [INF] -P-Campaigns Fitur-Search-PASS
+2022-08-25 14:25:47.412 +07:00 [INF] -P-Campaigns Fitur-ChannelSearch-PASS
+2022-08-25 14:25:48.152 +07:00 [INF] -P-Campaigns Fitur-StatusSearch-PASS
+2022-08-25 14:25:48.606 +07:00 [INF] 1 Node is detached from document
+2022-08-25 14:25:48.983 +07:00 [INF] -P-Campaigns Fitur-ListSearch-PASS
+2022-08-25 14:25:49.443 +07:00 [INF] -P-Campaigns Fitur-TagsSearch-PASS
+2022-08-25 14:25:49.672 +07:00 [INF] -P-Campaigns Fitur-Refresh-PASS
+2022-08-25 14:25:50.419 +07:00 [INF] -P-Campaigns Fitur-ColumnPicker-PASS
+2022-08-25 14:25:50.979 +07:00 [INF] -P-Campaigns Fitur-Restore-PASS
+2022-08-25 14:25:51.409 +07:00 [INF] -P-Campaigns Fitur-Excel-PASS
+2022-08-25 14:25:52.406 +07:00 [INF] -P-Campaigns Fitur-PDF-PASS
+2022-08-25 14:25:53.177 +07:00 [INF] -P-Campaigns Fitur-AutoRefresh-PASS
+2022-08-25 14:27:54.914 +07:00 [INF] 6 waiting for XPath '//input[@id='Nobox_Nobox_CampaignDialog12_Name']' failed: timeout 30000 ms exceeded
+2022-08-25 14:28:02.184 +07:00 [INF] -P-Campaigns-Insert-PASS
+2022-08-25 14:28:03.936 +07:00 [INF] -P-Campaigns-Read-PASS
+2022-08-25 14:28:04.850 +07:00 [INF] -P-Campaigns-Update-PASS
+2022-08-25 14:28:07.393 +07:00 [INF] -P-Campaigns-Delete-PASS
+2022-08-25 14:28:08.416 +07:00 [INF] -P-Campaigns Fitur-Search-PASS
+2022-08-25 14:28:08.767 +07:00 [INF] -P-Campaigns Fitur-ChannelSearch-PASS
+2022-08-25 14:28:09.137 +07:00 [INF] -P-Campaigns Fitur-StatusSearch-PASS
+2022-08-25 14:28:09.601 +07:00 [INF] -P-Campaigns Fitur-AccountSearch-PASS
+2022-08-25 14:28:10.008 +07:00 [INF] -P-Campaigns Fitur-ListSearch-PASS
+2022-08-25 14:28:10.305 +07:00 [INF] -P-Campaigns Fitur-TagsSearch-PASS
+2022-08-25 14:28:10.352 +07:00 [INF] -P-Campaigns Fitur-Refresh-PASS
+2022-08-25 14:28:10.787 +07:00 [INF] -P-Campaigns Fitur-ColumnPicker-PASS
+2022-08-25 14:28:11.100 +07:00 [INF] -P-Campaigns Fitur-Restore-PASS
+2022-08-25 14:28:11.405 +07:00 [INF] -P-Campaigns Fitur-Excel-PASS
+2022-08-25 14:28:11.880 +07:00 [INF] -P-Campaigns Fitur-PDF-PASS
+2022-08-25 14:28:13.326 +07:00 [INF] -P-Campaigns Fitur-AutoRefresh-PASS
+2022-08-25 14:28:15.295 +07:00 [INF] 2 Node is detached from document

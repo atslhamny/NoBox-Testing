@@ -1,0 +1,2 @@
+2022-08-26 10:22:01.013 +07:00 [INF] 4 Response status code does not indicate success: 405 (HTTP method GET is not supported by this URL).
+2022-08-26 10:23:40.431 +07:00 [INF] 3 waiting for XPath '//button [@type = 'submit']' failed: timeout 30000 ms exceeded

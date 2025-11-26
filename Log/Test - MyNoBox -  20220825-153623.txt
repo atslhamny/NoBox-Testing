@@ -1,0 +1,19 @@
+2022-08-25 15:38:57.659 +07:00 [INF] -P-Campaigns-Insert-PASS
+2022-08-25 15:38:58.034 +07:00 [INF] 1 Node is detached from document
+2022-08-25 15:39:10.212 +07:00 [INF] -P-Campaigns-Update-PASS
+2022-08-25 15:39:12.709 +07:00 [INF] -P-Campaigns-Delete-PASS
+2022-08-25 15:39:13.551 +07:00 [INF] -P-Campaigns Fitur-Search-PASS
+2022-08-25 15:39:13.980 +07:00 [INF] -P-Campaigns Fitur-ChannelSearch-PASS
+2022-08-25 15:39:14.697 +07:00 [INF] -P-Campaigns Fitur-StatusSearch-PASS
+2022-08-25 15:39:15.064 +07:00 [INF] 1 Node is detached from document
+2022-08-25 15:39:15.581 +07:00 [INF] -P-Campaigns Fitur-ListSearch-PASS
+2022-08-25 15:39:16.122 +07:00 [INF] -P-Campaigns Fitur-TagsSearch-PASS
+2022-08-25 15:39:16.450 +07:00 [INF] -P-Campaigns Fitur-Refresh-PASS
+2022-08-25 15:39:17.045 +07:00 [INF] -P-Campaigns Fitur-ColumnPicker-PASS
+2022-08-25 15:39:17.536 +07:00 [INF] -P-Campaigns Fitur-Restore-PASS
+2022-08-25 15:39:17.930 +07:00 [INF] -P-Campaigns Fitur-Excel-PASS
+2022-08-25 15:39:18.903 +07:00 [INF] -P-Campaigns Fitur-PDF-PASS
+2022-08-25 15:39:19.926 +07:00 [INF] -P-Campaigns Fitur-AutoRefresh-PASS
+2022-08-25 15:39:25.608 +07:00 [INF] 2 Node is detached from document
+2022-08-25 15:39:55.928 +07:00 [INF] 0 waiting for XPath '//div[@class='slick-cell l2 r2']/div[contains(text(), 'PROCESS')]' failed: timeout 30000 ms exceeded
+2022-08-25 15:40:10.399 +07:00 [INF] 1 Node is detached from document

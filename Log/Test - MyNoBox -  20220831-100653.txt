@@ -1,0 +1,4 @@
+2022-08-31 10:07:45.646 +07:00 [INF] -P-Auto Login-PASS
+2022-08-31 10:08:51.508 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-31 10:08:53.408 +07:00 [INF] - P - Campaigns - Read - PASS
+2022-08-31 10:08:54.904 +07:00 [INF] - P - Campaigns - Update - PASS

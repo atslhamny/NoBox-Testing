@@ -1,0 +1,19 @@
+2022-08-25 11:32:14.673 +07:00 [INF] -P-Campaigns-Insert-PASS
+2022-08-25 11:32:16.190 +07:00 [INF] 1 Node is detached from document
+2022-08-25 11:32:33.834 +07:00 [INF] -P-Campaigns-Update-PASS
+2022-08-25 11:32:35.714 +07:00 [INF] 3 Node is detached from document
+2022-08-25 11:32:36.314 +07:00 [INF] -P-Campaigns Fitur-Search-PASS
+2022-08-25 11:32:37.442 +07:00 [INF] -P-Campaigns Fitur-ChannelSearch-PASS
+2022-08-25 11:32:38.276 +07:00 [INF] -P-Campaigns Fitur-StatusSearch-PASS
+2022-08-25 11:32:38.723 +07:00 [INF] 1 Node is detached from document
+2022-08-25 11:32:39.489 +07:00 [INF] -P-Campaigns Fitur-ListSearch-PASS
+2022-08-25 11:32:40.127 +07:00 [INF] -P-Campaigns Fitur-TagsSearch-PASS
+2022-08-25 11:32:40.344 +07:00 [INF] -P-Campaigns Fitur-Refresh-PASS
+2022-08-25 11:32:41.101 +07:00 [INF] -P-Campaigns Fitur-ColumnPicker-PASS
+2022-08-25 11:32:41.589 +07:00 [INF] -P-Campaigns Fitur-Restore-PASS
+2022-08-25 11:32:42.131 +07:00 [INF] -P-Campaigns Fitur-Excel-PASS
+2022-08-25 11:32:43.266 +07:00 [INF] -P-Campaigns Fitur-PDF-PASS
+2022-08-25 11:32:44.572 +07:00 [INF] -P-Campaigns Fitur-AutoRefresh-PASS
+2022-08-25 11:33:23.512 +07:00 [INF] 12 waiting for XPath '//div[@title='mark as done this campaign']' failed: timeout 30000 ms exceeded
+2022-08-25 11:33:32.564 +07:00 [INF] -P-Campaigns Fitur-Canceled-PASS
+2022-08-25 11:34:07.763 +07:00 [INF] 2 waiting for XPath '//div[contains(@class, 'clone-button')]' failed: timeout 30000 ms exceeded

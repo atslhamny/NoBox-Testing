@@ -1,0 +1,20 @@
+2022-08-30 08:35:03.304 +07:00 [ERR] 2 Value does not fall within the expected range.
+2022-08-30 08:35:19.879 +07:00 [INF] -P-Auto Login-PASS
+2022-08-30 08:35:33.683 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-30 08:35:35.471 +07:00 [INF] - P - Campaigns - Read - PASS
+2022-08-30 08:35:36.229 +07:00 [INF] - P - Campaigns - Update - PASS
+2022-08-30 08:35:38.842 +07:00 [INF] - P - Campaigns - Delete - PASS
+2022-08-30 08:35:42.229 +07:00 [INF] - P - Campaigns Fitur - Channel Search - PASS
+2022-08-30 08:35:44.807 +07:00 [INF] - P - Campaigns Fitur - Status Search - PASS
+2022-08-30 08:35:47.125 +07:00 [INF] - P - Campaigns Fitur - Account Search-PASS
+2022-08-30 08:35:49.623 +07:00 [INF] - P - Campaigns Fitur - List Search - PASS
+2022-08-30 08:35:52.113 +07:00 [INF] - P - Campaigns Fitur - Tags Search - PASS
+2022-08-30 08:36:02.224 +07:00 [INF] - P - Campaigns Fitur - Process To Done- PASS
+2022-08-30 08:36:15.231 +07:00 [INF] - P - Campaigns Fitur - Canceled - PASS
+2022-08-30 08:36:20.355 +07:00 [INF] - P - Campaigns Fitur - Clone - PASS
+2022-08-30 08:36:24.615 +07:00 [INF] - P - Broadcast Message Fitur - Filter Campaigns - PASS
+2022-08-30 08:36:27.036 +07:00 [INF] - P - Broadcast Message Fitur - Filter Contact - PASS
+2022-08-30 08:36:29.449 +07:00 [INF] - P - Broadcast Message Fitur - Filter Status - PASS
+2022-08-30 08:36:31.917 +07:00 [INF] - P - Broadcast Message Fitur - Filter Tags - PASS
+2022-08-30 08:36:34.506 +07:00 [INF] - P - Broadcast Message Fitur - Process By - PASS
+2022-08-30 08:36:36.875 +07:00 [INF] - P - Broadcast Message Fitur - Is Read - PASS

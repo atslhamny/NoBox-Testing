@@ -1,0 +1,8 @@
+2022-08-29 15:39:28.070 +07:00 [INF] -P-Auto Login-PASS
+2022-08-29 15:39:38.277 +07:00 [INF] - N - Account - Insert - PASS
+2022-08-29 15:39:43.746 +07:00 [INF] - P - Account - Insert - PASS
+2022-08-29 15:39:44.941 +07:00 [INF] - P - Account - Read - PASS
+2022-08-29 15:39:46.067 +07:00 [INF] - P - Account - Update - PASS
+2022-08-29 15:39:48.398 +07:00 [INF] - P - Account - Delete - PASS
+2022-08-29 15:39:51.234 +07:00 [INF] - P - Account Fitur - Search Category-PASS
+2022-08-29 15:39:51.635 +07:00 [INF] - P - Account Fitur - Search - PASS

@@ -1,0 +1,17 @@
+2022-08-29 13:57:56.477 +07:00 [INF] -P-Auto Login-PASS
+2022-08-29 13:58:16.605 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-29 13:58:18.748 +07:00 [INF] - P - Campaigns - Read - PASS
+2022-08-29 13:58:19.918 +07:00 [INF] - P - Campaigns - Update - PASS
+2022-08-29 13:58:23.885 +07:00 [INF] - P - Campaigns - Delete - PASS
+2022-08-29 13:58:25.543 +07:00 [INF] - P - Campaigns Fitur - Search - PASS
+2022-08-29 13:58:28.386 +07:00 [INF] - P - Campaigns Fitur - Channel Search - PASS
+2022-08-29 13:58:31.517 +07:00 [INF] - P - Campaigns Fitur - Status Search - PASS
+2022-08-29 13:58:33.769 +07:00 [INF] - P - Campaigns Fitur - Account Search-PASS
+2022-08-29 13:58:37.153 +07:00 [INF] - P - Campaigns Fitur - List Search - PASS
+2022-08-29 13:58:40.083 +07:00 [INF] - P - Campaigns Fitur - Tags Search - PASS
+2022-08-29 13:58:40.968 +07:00 [INF] - P - Campaigns Fitur - Refresh - PASS
+2022-08-29 13:58:42.743 +07:00 [INF] - P - Campaigns Fitur - Column Picker - PASS
+2022-08-29 13:58:43.613 +07:00 [INF] - P - Campaigns Fitur - Restore - PASS
+2022-08-29 13:58:44.016 +07:00 [INF] - P - Campaigns Fitur - Excel - PASS
+2022-08-29 13:58:45.256 +07:00 [INF] - P - Campaigns Fitur - PDF - PASS
+2022-08-29 13:58:50.006 +07:00 [INF] - P - Campaigns Fitur - Auto Refresh - PASS

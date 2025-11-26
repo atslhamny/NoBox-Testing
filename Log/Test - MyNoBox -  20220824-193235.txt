@@ -1,0 +1,49 @@
+2022-08-24 19:34:43.706 +07:00 [INF] -P-Campaigns-Insert-PASS
+2022-08-24 19:34:47.516 +07:00 [INF] 1 Node is detached from document
+2022-08-24 19:34:52.737 +07:00 [INF] -P-Campaigns-Update-PASS
+2022-08-24 19:34:55.565 +07:00 [INF] -P-Campaigns-Delete-PASS
+2022-08-24 19:34:56.485 +07:00 [INF] -P-Campaigns Fitur-Search-PASS
+2022-08-24 19:34:56.950 +07:00 [INF] -P-Campaigns Fitur-ChannelSearch-PASS
+2022-08-24 19:34:57.698 +07:00 [INF] -P-Campaigns Fitur-StatusSearch-PASS
+2022-08-24 19:34:58.066 +07:00 [INF] 1 Node is detached from document
+2022-08-24 19:34:58.558 +07:00 [INF] -P-Campaigns Fitur-ListSearch-PASS
+2022-08-24 19:34:59.096 +07:00 [INF] -P-Campaigns Fitur-TagsSearch-PASS
+2022-08-24 19:34:59.665 +07:00 [INF] -P-Campaigns Fitur-Refresh-PASS
+2022-08-24 19:35:00.467 +07:00 [INF] -P-Campaigns Fitur-ColumnPicker-PASS
+2022-08-24 19:35:00.896 +07:00 [INF] -P-Campaigns Fitur-Restore-PASS
+2022-08-24 19:35:01.278 +07:00 [INF] -P-Campaigns Fitur-Excel-PASS
+2022-08-24 19:35:01.994 +07:00 [INF] -P-Campaigns Fitur-PDF-PASS
+2022-08-24 19:35:02.251 +07:00 [INF] -P-Campaigns Fitur-AutoRefresh-PASS
+2022-08-24 19:35:17.854 +07:00 [INF] -P-Campaigns Fitur-ProcessToDone-PASS
+2022-08-24 19:35:18.677 +07:00 [INF] 0 Node is detached from document
+2022-08-24 19:35:19.728 +07:00 [INF] 1 Node is detached from document
+2022-08-24 19:37:18.997 +07:00 [INF] -P-Broadcast Message Fitur-Refresh-PASS
+2022-08-24 19:37:19.421 +07:00 [INF] -P-Broadcast Message Fitur-ColumnPicker-PASS
+2022-08-24 19:37:19.731 +07:00 [INF] -P-Broadcast Message Fitur-Restore-PASS
+2022-08-24 19:37:19.981 +07:00 [INF] -P-Broadcast Message Fitur-Excel-PASS
+2022-08-24 19:37:20.629 +07:00 [INF] -P-Broadcast Message Fitur-PDF-PASS
+2022-08-24 19:37:20.828 +07:00 [INF] -P-Broadcast Message Fitur-AutoRefresh-PASS
+2022-08-24 19:37:22.618 +07:00 [INF] -P-Broadcast Message Fitur-FilterCampaigns-PASS
+2022-08-24 19:37:53.460 +07:00 [INF] 5 waiting for XPath '//div[@id='s2id_Nobox_Nobox_CampaignresultBroadcastGrid0_QuickFilter_ContactId']//abbr' failed: timeout 30000 ms exceeded
+2022-08-24 19:37:53.897 +07:00 [INF] -P-Broadcast Message Fitur-FilterStatus-PASS
+2022-08-24 19:37:54.588 +07:00 [INF] -P-Broadcast Message Fitur-FilterTags-PASS
+2022-08-24 19:38:25.151 +07:00 [INF] 5 waiting for XPath '//div[@id='s2id_Nobox_Nobox_CampaignresultBroadcastGrid0_QuickFilter_ProcessBy']//abbr' failed: timeout 30000 ms exceeded
+2022-08-24 19:38:25.699 +07:00 [INF] -P-Broadcast Message Fitur-IsRead-PASS
+2022-08-24 19:38:56.055 +07:00 [INF] 2 waiting for XPath '//div[@class='slick-cell l1 r1']/a' failed: timeout 30000 ms exceeded
+2022-08-24 19:39:08.428 +07:00 [INF] -N-Message Templae-Insert-PASS
+2022-08-24 19:39:10.185 +07:00 [INF] -P-Message Template-Insert-PASS
+2022-08-24 19:39:10.545 +07:00 [INF] -P-Message Template-Read-PASS
+2022-08-24 19:39:11.249 +07:00 [INF] -P-Message Template-Update-PASS
+2022-08-24 19:39:11.946 +07:00 [INF] 3 Node is either not visible or not an HTMLElement
+2022-08-24 19:39:42.169 +07:00 [INF] 4 waiting for XPath '//span[text()='Channel']/following-sibling::div//abbr' failed: timeout 30000 ms exceeded
+2022-08-24 19:39:42.484 +07:00 [INF] -P-Message Template Fitur-Search-PASS
+2022-08-24 19:39:42.651 +07:00 [INF] -P-Message Template Fitur-Refresh-PASS
+2022-08-24 19:39:43.196 +07:00 [INF] -P-Message Template Fitur-ColumnPicker-PASS
+2022-08-24 19:39:43.560 +07:00 [INF] -P-Message Template Fitur-Restore-PASS
+2022-08-24 19:39:43.738 +07:00 [INF] -P-Message Template Fitur-Excel-PASS
+2022-08-24 19:39:44.493 +07:00 [INF] -P-Message Template Fitur-PDF-PASS
+2022-08-24 19:39:45.004 +07:00 [INF] -P-Message Template Fitur-AutoRefresh-PASS
+2022-08-24 19:40:42.774 +07:00 [INF] -N-Campaigns-Tags-Insert-PASS
+2022-08-24 19:40:43.732 +07:00 [INF] -P-Campaigns-Tags-Insert-PASS
+2022-08-24 19:40:43.780 +07:00 [INF] -P-Campaigns-Tags-Read-PASS
+2022-08-24 19:40:43.958 +07:00 [INF] -P-Campaigns-Tags-Update-PASS

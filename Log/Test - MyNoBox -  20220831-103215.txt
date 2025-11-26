@@ -1,0 +1,7 @@
+2022-08-31 10:33:08.912 +07:00 [INF] -P-Auto Login-PASS
+2022-08-31 10:34:13.344 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-31 10:34:15.198 +07:00 [INF] - P - Campaigns - Read - PASS
+2022-08-31 10:34:16.111 +07:00 [INF] - P - Campaigns - Update - PASS
+2022-08-31 10:34:18.901 +07:00 [INF] - P - Campaigns - Delete - PASS
+2022-08-31 10:34:53.671 +07:00 [ERR] 16 waiting for XPath '//button[contains(@class, 'panel-titlebar-close')]' failed: timeout 30000 ms exceeded
+2022-08-31 10:35:24.359 +07:00 [ERR] 2 waiting for XPath '//div[@id='s2id_Nobox_Nobox_CampaignDirectDialog12_Contact']/ul/li/input' failed: timeout 30000 ms exceeded

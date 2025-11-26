@@ -1,0 +1,7 @@
+2022-08-26 14:47:36.678 +07:00 [INF] 4 Response status code does not indicate success: 405 (HTTP method GET is not supported by this URL).
+2022-08-26 14:48:26.341 +07:00 [INF] 3 waiting for XPath '//button [@type = 'submit']' failed: timeout 30000 ms exceeded
+2022-08-26 14:48:56.763 +07:00 [INF] 2 waiting for XPath '//div[contains(@class, 'Recaptcha')]' failed: timeout 30000 ms exceeded
+2022-08-26 14:49:27.277 +07:00 [INF] 2 waiting for XPath '//div[contains(@class, 'Recaptcha')]' failed: timeout 30000 ms exceeded
+2022-08-26 14:49:57.497 +07:00 [INF] 2 waiting for XPath '//div[contains(@class, 'Recaptcha')]' failed: timeout 30000 ms exceeded
+2022-08-26 14:50:27.795 +07:00 [INF] 3 waiting for XPath '//input[@name='Username']' failed: timeout 30000 ms exceeded
+2022-08-26 14:50:57.974 +07:00 [INF] 2 waiting for XPath '//div[contains(@class, 'Recaptcha')]' failed: timeout 30000 ms exceeded

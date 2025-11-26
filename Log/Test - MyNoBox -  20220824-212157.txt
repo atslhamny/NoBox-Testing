@@ -1,0 +1,29 @@
+2022-08-24 21:24:21.285 +07:00 [INF] -P-Campaigns-Insert-PASS
+2022-08-24 21:24:25.858 +07:00 [INF] 1 Node is detached from document
+2022-08-24 21:24:35.550 +07:00 [INF] -P-Campaigns-Update-PASS
+2022-08-24 21:24:40.642 +07:00 [INF] 3 Node is detached from document
+2022-08-24 21:24:42.842 +07:00 [INF] -P-Campaigns Fitur-Search-PASS
+2022-08-24 21:24:47.507 +07:00 [INF] -P-Campaigns Fitur-ChannelSearch-PASS
+2022-08-24 21:24:50.894 +07:00 [INF] -P-Campaigns Fitur-StatusSearch-PASS
+2022-08-24 21:24:52.264 +07:00 [INF] 1 Node is detached from document
+2022-08-24 21:24:53.647 +07:00 [INF] -P-Campaigns Fitur-ListSearch-PASS
+2022-08-24 21:24:55.867 +07:00 [INF] -P-Campaigns Fitur-TagsSearch-PASS
+2022-08-24 21:24:56.782 +07:00 [INF] -P-Campaigns Fitur-Refresh-PASS
+2022-08-24 21:24:58.941 +07:00 [INF] -P-Campaigns Fitur-ColumnPicker-PASS
+2022-08-24 21:25:00.920 +07:00 [INF] -P-Campaigns Fitur-Restore-PASS
+2022-08-24 21:25:01.915 +07:00 [INF] -P-Campaigns Fitur-Excel-PASS
+2022-08-24 21:25:04.189 +07:00 [INF] -P-Campaigns Fitur-PDF-PASS
+2022-08-24 21:25:06.883 +07:00 [INF] -P-Campaigns Fitur-AutoRefresh-PASS
+2022-08-24 21:25:40.233 +07:00 [INF] 3 waiting for XPath '//div[@title='Process this campaign']' failed: timeout 30000 ms exceeded
+2022-08-24 21:25:47.988 +07:00 [INF] 0 Node is detached from document
+2022-08-24 21:25:49.538 +07:00 [INF] 1 Node is detached from document
+2022-08-24 21:26:18.867 +07:00 [INF] -P-Broadcast Message Fitur-Refresh-PASS
+2022-08-24 21:26:19.945 +07:00 [INF] -P-Broadcast Message Fitur-ColumnPicker-PASS
+2022-08-24 21:26:20.414 +07:00 [INF] -P-Broadcast Message Fitur-Restore-PASS
+2022-08-24 21:26:21.322 +07:00 [INF] -P-Broadcast Message Fitur-Excel-PASS
+2022-08-24 21:26:24.794 +07:00 [INF] -P-Broadcast Message Fitur-PDF-PASS
+2022-08-24 21:26:24.860 +07:00 [INF] -P-Broadcast Message Fitur-AutoRefresh-PASS
+2022-08-24 21:26:55.727 +07:00 [INF] 2 waiting for XPath '//div[contains(@id, 's2id_Nobox_Nobox_CampaignresultBroadcastGrid0_QuickFilter_CampaignId')]//abbr' failed: timeout 30000 ms exceeded
+2022-08-24 21:27:28.612 +07:00 [INF] 5 waiting for XPath '//div[@id='s2id_Nobox_Nobox_CampaignresultBroadcastGrid0_QuickFilter_ContactId']//abbr' failed: timeout 30000 ms exceeded
+2022-08-24 21:27:39.002 +07:00 [INF] -P-Broadcast Message Fitur-FilterStatus-PASS
+2022-08-24 21:27:45.773 +07:00 [INF] -P-Broadcast Message Fitur-FilterTags-PASS

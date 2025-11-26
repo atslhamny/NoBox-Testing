@@ -1,0 +1,14 @@
+2022-08-29 13:07:10.684 +07:00 [ERR] 2 Value does not fall within the expected range.
+2022-08-29 13:07:31.963 +07:00 [INF] -P-Auto Login-PASS
+2022-08-29 13:08:03.155 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-29 13:08:05.773 +07:00 [INF] - P - Campaigns - Read - PASS
+2022-08-29 13:08:07.280 +07:00 [INF] - P - Campaigns - Update - PASS
+2022-08-29 13:08:09.142 +07:00 [ERR] 3 Node is either not visible or not an HTMLElement
+2022-08-29 13:08:09.508 +07:00 [INF] - P - Campaigns Fitur - Search - PASS
+2022-08-29 13:08:12.029 +07:00 [INF] - P - Campaigns Fitur - Channel Search - PASS
+2022-08-29 13:08:15.250 +07:00 [INF] - P - Campaigns Fitur - Status Search - PASS
+2022-08-29 13:08:17.912 +07:00 [INF] - P - Campaigns Fitur - Account Search-PASS
+2022-08-29 13:08:21.080 +07:00 [INF] - P - Campaigns Fitur - List Search - PASS
+2022-08-29 13:08:23.925 +07:00 [INF] - P - Campaigns Fitur - Tags Search - PASS
+2022-08-29 13:08:24.128 +07:00 [INF] - P - Campaigns Fitur - Refresh - PASS
+2022-08-29 13:08:26.438 +07:00 [ERR] 3 CoreWebView2 members cannot be accessed after the WebView2 control is disposed.

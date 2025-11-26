@@ -1,0 +1,50 @@
+2022-08-29 10:20:25.474 +07:00 [ERR] 2 Value does not fall within the expected range.
+2022-08-29 10:20:48.297 +07:00 [INF] -P-Auto Login-PASS
+2022-08-29 10:21:02.283 +07:00 [INF] - N - Contacts - Insert - Name Blank-PASS
+2022-08-29 10:21:07.115 +07:00 [INF] - N - Contacts - Insert - Category Blank - PASS
+2022-08-29 10:21:11.908 +07:00 [INF] - P - Contacts -Insert - PASS
+2022-08-29 10:21:23.823 +07:00 [INF] - P - Contacts - Read - PASS
+2022-08-29 10:21:24.692 +07:00 [INF] - P - Contacts - Update - PASS
+2022-08-29 10:21:28.166 +07:00 [INF] - P - Contacts - Delete - PASS
+2022-08-29 10:21:29.324 +07:00 [INF] - P - Contacts Fitur - Filter Category - PASS
+2022-08-29 10:21:32.620 +07:00 [INF] - P - Contacts Fitur - Filter Country - PASS
+2022-08-29 10:21:35.286 +07:00 [INF] - P - Contacts Fitur - Filter State - PASS
+2022-08-29 10:21:37.910 +07:00 [INF] - P - Contacts Fitur - Filter City - PASS
+2022-08-29 10:21:40.351 +07:00 [INF] - P - Contacts Fitur - Filter Tool - PASS
+2022-08-29 10:21:42.806 +07:00 [INF] - P - Contacts Fitur - Filter List - PASS
+2022-08-29 10:21:45.485 +07:00 [INF] - P - Contacts Fitur - Filter Tags - PASS
+2022-08-29 10:21:45.612 +07:00 [INF] - P - Contacts Fitur - Refresh - PASS
+2022-08-29 10:21:46.063 +07:00 [INF] - P - Contacts Fitur - Column Picker - PASS
+2022-08-29 10:21:46.416 +07:00 [INF] - P - Contacts Fitur - Restore Grid - PASS
+2022-08-29 10:21:46.860 +07:00 [INF] - P - Contacts Fitur - Excel - PASS
+2022-08-29 10:21:47.765 +07:00 [INF] - P - Contacts Fitur - PDF - PASS
+2022-08-29 10:21:47.991 +07:00 [INF] - P - Contacts Fitur - Auto Refresh - PASS
+2022-08-29 10:21:52.714 +07:00 [INF] - P - Contacts Fitur - Google Contacts - PASS
+2022-08-29 10:21:59.221 +07:00 [INF] - P - Contacts Fitur - VCard - PASS
+2022-08-29 10:22:04.116 +07:00 [INF] -N  - List - Insert - PASS
+2022-08-29 10:22:06.899 +07:00 [INF] - P - List - Insert - PASS
+2022-08-29 10:22:08.123 +07:00 [INF] - P - List - Read - PASS
+2022-08-29 10:22:08.995 +07:00 [INF] - P - List - Update - PASS
+2022-08-29 10:22:09.526 +07:00 [INF] -P-List Fitur-Refresh-PASS
+2022-08-29 10:22:10.109 +07:00 [INF] - P - List Fitur - Column Picker - PASS
+2022-08-29 10:22:10.435 +07:00 [INF] -P-List Fitur-Restore Grid-PASS
+2022-08-29 10:22:10.773 +07:00 [INF] -P-List Fitur-Excel-PASS
+2022-08-29 10:22:13.209 +07:00 [INF] -P-List Fitur-PDF-PASS
+2022-08-29 10:22:13.614 +07:00 [INF] -P-List Fitur-Auto Refresh-PASS
+2022-08-29 10:22:13.932 +07:00 [INF] -P-List Fitur-Search-PASS
+2022-08-29 10:22:16.663 +07:00 [INF] -P-List Fitur-Add From Contact-PASS
+2022-08-29 10:22:47.362 +07:00 [ERR] 4 waiting for XPath '//div[contains(@class, 'add-button-contact')]' failed: timeout 30000 ms exceeded
+2022-08-29 10:22:48.103 +07:00 [INF] -P-List Fitur-Delete All Contact-PASS
+2022-08-29 10:22:48.404 +07:00 [INF] -P-List Fitur-Delete-PASS
+2022-08-29 10:22:51.433 +07:00 [INF] -N-Contact Tags-Insert-NameBlank-PASS
+2022-08-29 10:22:52.486 +07:00 [INF] -P-Contact Tags-Insert-PASS
+2022-08-29 10:22:53.589 +07:00 [INF] -P-Contact Tags-Read-PASS
+2022-08-29 10:22:53.917 +07:00 [INF] -P-Contact Tags-Update-PASS
+2022-08-29 10:22:55.239 +07:00 [INF] -P-Contact Tags-Delete:
+2022-08-29 10:22:55.473 +07:00 [INF] -P-Contact Tags Fitur-Search-PASS
+2022-08-29 10:22:55.595 +07:00 [INF] -P-Contact Tags Fitur-Refresh-PASS
+2022-08-29 10:22:55.899 +07:00 [INF] -P-Contact Tags Fitur-Column Picker-PASS
+2022-08-29 10:22:56.114 +07:00 [INF] -P-Contact Tags Fitur-Restore-PASS
+2022-08-29 10:22:56.401 +07:00 [INF] -P-Contact Tags Fitur-Excel-PASS
+2022-08-29 10:22:57.185 +07:00 [INF] -P-Contact Tags Fitur-PDF-PASS
+2022-08-29 10:22:58.731 +07:00 [INF] -P-Contact Tags Fitur-Auto Refresh-PASS

@@ -1,0 +1,6 @@
+2022-08-31 13:51:28.907 +07:00 [INF] -P-Auto Login-PASS
+2022-08-31 13:52:31.492 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-31 13:52:33.893 +07:00 [INF] - P - Campaigns - Read - PASS
+2022-08-31 13:52:34.571 +07:00 [INF] - P - Campaigns - Update - PASS
+2022-08-31 13:52:48.735 +07:00 [INF] - P - Campaigns - Delete - PASS
+2022-08-31 13:53:22.058 +07:00 [ERR] 16 waiting for XPath '//button[contains(@class, 'panel-titlebar-close')]' failed: timeout 30000 ms exceeded

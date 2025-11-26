@@ -1,0 +1,5 @@
+2022-08-30 13:39:48.212 +07:00 [INF] -P-Auto Login-PASS
+2022-08-30 13:40:27.435 +07:00 [ERR] 5 waiting for XPath '//div[contains(@class, 'add-button')]' failed: timeout 30000 ms exceeded
+2022-08-30 13:40:34.440 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-30 13:40:36.315 +07:00 [INF] - P - Campaigns - Read - PASS
+2022-08-30 13:40:37.111 +07:00 [INF] - P - Campaigns - Update - PASS

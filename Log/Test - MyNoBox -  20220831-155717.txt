@@ -1,0 +1,8 @@
+2022-08-31 15:57:53.767 +07:00 [INF] -P-Auto Login-PASS
+2022-08-31 15:58:06.111 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-31 15:59:00.658 +07:00 [ERR] 10 Node is either not visible or not an HTMLElement
+2022-08-31 15:59:32.029 +07:00 [ERR] 1 waiting for XPath '//div[@class='slick-cell l0 r0']/a' failed: timeout 30000 ms exceeded
+2022-08-31 15:59:32.239 +07:00 [INF] - P - Campaigns - Update - PASS
+2022-08-31 16:00:03.517 +07:00 [ERR] 3 waiting for XPath '//div[@class='slick-cell l0 r0']/a' failed: timeout 30000 ms exceeded
+2022-08-31 16:00:34.002 +07:00 [ERR] 1 waiting for XPath '//div[@id='s2id_Nobox_Nobox_CampaignGrid0_QuickFilter_ChannelId']' failed: timeout 30000 ms exceeded
+2022-08-31 16:01:04.569 +07:00 [ERR] 1 waiting for XPath '//div[@id='s2id_Nobox_Nobox_CampaignGrid0_QuickFilter_Status']' failed: timeout 30000 ms exceeded

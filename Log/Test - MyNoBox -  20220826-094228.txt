@@ -1,0 +1,18 @@
+2022-08-26 09:43:13.493 +07:00 [INF] -N-Message Templae-Insert-PASS
+2022-08-26 09:43:15.211 +07:00 [INF] -P-Message Template-Insert-PASS
+2022-08-26 09:43:15.599 +07:00 [INF] -P-Message Template-Read-PASS
+2022-08-26 09:43:15.728 +07:00 [INF] -P-Message Template-Update-PASS
+2022-08-26 09:43:28.141 +07:00 [INF] -P-Message Template-Delete-PASS
+2022-08-26 09:43:30.122 +07:00 [INF] -P-Message Template Fitur-SearchChannel-PASS
+2022-08-26 09:43:30.421 +07:00 [INF] -P-Message Template Fitur-Search-PASS
+2022-08-26 09:43:30.460 +07:00 [INF] -P-Message Template Fitur-Refresh-PASS
+2022-08-26 09:43:30.951 +07:00 [INF] -P-Message Template Fitur-ColumnPicker-PASS
+2022-08-26 09:43:31.250 +07:00 [INF] -P-Message Template Fitur-Restore-PASS
+2022-08-26 09:43:31.554 +07:00 [INF] -P-Message Template Fitur-Excel-PASS
+2022-08-26 09:43:33.090 +07:00 [INF] -P-Message Template Fitur-PDF-PASS
+2022-08-26 09:43:33.241 +07:00 [INF] -P-Message Template Fitur-AutoRefresh-PASS
+2022-08-26 09:44:36.639 +07:00 [INF] -N-Contact Tags-Insert-NameBlank-PASS
+2022-08-26 09:44:37.651 +07:00 [INF] -P-Contact Tags-Insert-PASS
+2022-08-26 09:44:37.761 +07:00 [INF] -P-Contact Tags-Read-PASS
+2022-08-26 09:44:47.839 +07:00 [INF] -P-Contact Tags-Update-PASS
+2022-08-26 09:45:00.917 +07:00 [INF] -N-Contact Tags-Insert-NameBlank-PASS

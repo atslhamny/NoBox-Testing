@@ -1,0 +1,68 @@
+2022-08-29 13:46:13.306 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-29 13:46:16.403 +07:00 [INF] - P - Campaigns - Read - PASS
+2022-08-29 13:46:16.930 +07:00 [INF] - P - Campaigns - Update - PASS
+2022-08-29 13:46:19.467 +07:00 [INF] - P - Campaigns - Delete - PASS
+2022-08-29 13:46:20.717 +07:00 [INF] - P - Campaigns Fitur - Search - PASS
+2022-08-29 13:46:23.067 +07:00 [INF] - P - Campaigns Fitur - Channel Search - PASS
+2022-08-29 13:46:25.544 +07:00 [INF] - P - Campaigns Fitur - Status Search - PASS
+2022-08-29 13:46:27.746 +07:00 [INF] - P - Campaigns Fitur - Account Search-PASS
+2022-08-29 13:46:30.171 +07:00 [INF] - P - Campaigns Fitur - List Search - PASS
+2022-08-29 13:46:32.595 +07:00 [INF] - P - Campaigns Fitur - Tags Search - PASS
+2022-08-29 13:46:32.857 +07:00 [INF] - P - Campaigns Fitur - Refresh - PASS
+2022-08-29 13:46:33.403 +07:00 [INF] - P - Campaigns Fitur - Column Picker - PASS
+2022-08-29 13:46:33.817 +07:00 [INF] - P - Campaigns Fitur - Restore - PASS
+2022-08-29 13:46:34.123 +07:00 [INF] - P - Campaigns Fitur - Excel - PASS
+2022-08-29 13:46:34.737 +07:00 [INF] - P - Campaigns Fitur - PDF - PASS
+2022-08-29 13:46:35.417 +07:00 [INF] - P - Campaigns Fitur - Auto Refresh - PASS
+2022-08-29 13:46:47.965 +07:00 [INF] - P - Campaigns Fitur - Process To Done- PASS
+2022-08-29 13:47:19.178 +07:00 [ERR] 0 waiting for XPath '//div[@class='slick-cell l2 r2']/div[contains(text(), 'PROCESS')]' failed: timeout 30000 ms exceeded
+2022-08-29 13:47:24.366 +07:00 [INF] - P - Campaigns Fitur - Clone - PASS
+2022-08-29 13:47:27.714 +07:00 [INF] -P-Broadcast Message Fitur - Refresh - PASS
+2022-08-29 13:47:28.061 +07:00 [INF] -P-Broadcast Message Fitur - Column Picker - PASS
+2022-08-29 13:47:28.342 +07:00 [INF] - P - Broadcast Message Fitur - Restore - PASS
+2022-08-29 13:47:28.611 +07:00 [INF] - P - Broadcast Message Fitur - Excel - PASS
+2022-08-29 13:47:29.082 +07:00 [INF] - P - Broadcast Message Fitur - PDF - PASS
+2022-08-29 13:47:29.334 +07:00 [INF] - P - Broadcast Message Fitur - Auto Refresh - PASS
+2022-08-29 13:47:31.769 +07:00 [INF] - P - Broadcast Message Fitur - Filter Campaigns - PASS
+2022-08-29 13:47:34.223 +07:00 [INF] - P - Broadcast Message Fitur - Filter Contact - PASS
+2022-08-29 13:47:36.503 +07:00 [INF] - P - Broadcast Message Fitur - Filter Status - PASS
+2022-08-29 13:47:38.913 +07:00 [INF] - P - Broadcast Message Fitur - Filter Tags - PASS
+2022-08-29 13:47:41.329 +07:00 [INF] - P - Broadcast Message Fitur - Process By - PASS
+2022-08-29 13:47:43.721 +07:00 [INF] - P - Broadcast Message Fitur - Is Read - PASS
+2022-08-29 13:48:13.969 +07:00 [ERR] 2 waiting for XPath '//div[@class='slick-cell l1 r1']/a' failed: timeout 30000 ms exceeded
+2022-08-29 13:48:17.851 +07:00 [INF] - N - Message Template - Insert - PASS
+2022-08-29 13:48:18.830 +07:00 [INF] - P - Message Template - Insert - PASS
+2022-08-29 13:48:19.990 +07:00 [INF] - P - Message Template - Read - PASS
+2022-08-29 13:48:20.382 +07:00 [INF] -P-Message Template  - Update - PASS
+2022-08-29 13:48:21.837 +07:00 [INF] - P - Message Template - Delete - PASS
+2022-08-29 13:48:24.255 +07:00 [INF] - P - Message Template Fitur - Search Channel - PASS
+2022-08-29 13:48:24.471 +07:00 [INF] - P - Message Template Fitur - Search - PASS
+2022-08-29 13:48:24.623 +07:00 [INF] - P - Message Template Fitur - Refresh - PASS
+2022-08-29 13:48:24.960 +07:00 [INF] - P - Message Template Fitur - Column Picker-PASS
+2022-08-29 13:48:25.255 +07:00 [INF] - P - Message Template Fitur - Restore - PASS
+2022-08-29 13:48:25.602 +07:00 [INF] - P - Message Template Fitur - Excel - PASS
+2022-08-29 13:48:26.610 +07:00 [INF] - P - Message Template Fitur - PDF - PASS
+2022-08-29 13:48:28.826 +07:00 [INF] - P - Message Template Fitur - Auto Refresh - PASS
+2022-08-29 13:48:34.152 +07:00 [INF] - N - Campaigns - Tags - Insert - PASS
+2022-08-29 13:48:35.261 +07:00 [INF] - P - Campaigns - Tags - Insert - PASS
+2022-08-29 13:48:36.425 +07:00 [INF] - P - Campaigns - Tags - Read - PASS
+2022-08-29 13:48:36.703 +07:00 [INF] - P - Campaigns -Tags - Update - PASS
+2022-08-29 13:48:38.074 +07:00 [INF] - P - Campaigns - Tags - Delete - PASS
+2022-08-29 13:48:38.570 +07:00 [INF] - P - Campaigns Tags Fitur - Search - PASS
+2022-08-29 13:48:38.705 +07:00 [INF] - P - Campaigns Tags Fitur - Refresh - PASS
+2022-08-29 13:48:39.166 +07:00 [INF] - P - Campaigns Tags Fitur - Column Picker - PASS
+2022-08-29 13:48:39.481 +07:00 [INF] - P - Campaigns Tags Fitur - Restore - PASS
+2022-08-29 13:48:39.732 +07:00 [INF] - P - Campaigns Tags Fitur - Excel - PASS
+2022-08-29 13:48:41.236 +07:00 [INF] - P - Campaigns Tags Fitur - PDF - PASS
+2022-08-29 13:48:43.764 +07:00 [INF] - P - Campaigns Tags Fitur - Auto Refresh - PASS
+2022-08-29 13:48:46.717 +07:00 [INF] - N - Contacts - Insert - Name Blank-PASS
+2022-08-29 13:48:50.794 +07:00 [INF] - N - Contacts - Insert - Category Blank - PASS
+2022-08-29 13:48:56.455 +07:00 [INF] - P - Contacts -Insert - PASS
+2022-08-29 13:49:28.032 +07:00 [ERR] 3 waiting for XPath '//div[@class='slick-cell l0 r0']/a' failed: timeout 30000 ms exceeded
+2022-08-29 13:49:28.589 +07:00 [INF] - P - Contacts - Update - PASS
+2022-08-29 13:49:59.984 +07:00 [ERR] 3 waiting for XPath '//div[@class='slick-cell l0 r0']/a' failed: timeout 30000 ms exceeded
+2022-08-29 13:50:32.903 +07:00 [ERR] 5 waiting for XPath '//div[@class='slick-cell l2 r2']/a' failed: timeout 30000 ms exceeded
+2022-08-29 13:51:03.050 +07:00 [ERR] 5 waiting for XPath '//div [@id='s2id_Nobox_Nobox_LeadGrid0_QuickFilter_Country']' failed: timeout 30000 ms exceeded
+2022-08-29 13:51:33.173 +07:00 [ERR] 1 waiting for XPath '//div[@id='s2id_Nobox_Nobox_LeadGrid0_QuickFilter_State']' failed: timeout 30000 ms exceeded
+2022-08-29 13:52:03.285 +07:00 [ERR] 1 waiting for XPath '//div[@id='s2id_Nobox_Nobox_LeadGrid0_QuickFilter_City']' failed: timeout 30000 ms exceeded
+2022-08-29 13:52:34.011 +07:00 [ERR] 3 waiting for XPath '//div[@id='s2id_Nobox_Nobox_LeadGrid0_QuickFilter_Tool']' failed: timeout 30000 ms exceeded

@@ -1,0 +1,30 @@
+2022-08-30 13:17:20.525 +07:00 [ERR] 2 Value does not fall within the expected range.
+2022-08-30 13:17:48.612 +07:00 [INF] -P-Auto Login-PASS
+2022-08-30 13:18:28.610 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-30 13:18:32.364 +07:00 [INF] - P - Campaigns - Read - PASS
+2022-08-30 13:18:33.572 +07:00 [INF] - P - Campaigns - Update - PASS
+2022-08-30 13:18:35.828 +07:00 [ERR] 3 Node is detached from document
+2022-08-30 13:18:38.622 +07:00 [INF] - P - Campaigns Fitur - Channel Search - PASS
+2022-08-30 13:18:41.909 +07:00 [INF] - P - Campaigns Fitur - Status Search - PASS
+2022-08-30 13:18:44.581 +07:00 [INF] - P - Campaigns Fitur - Account Search-PASS
+2022-08-30 13:18:47.808 +07:00 [INF] - P - Campaigns Fitur - List Search - PASS
+2022-08-30 13:18:50.551 +07:00 [INF] - P - Campaigns Fitur - Tags Search - PASS
+2022-08-30 13:19:08.489 +07:00 [INF] - P - Campaigns Fitur - Process To Done- PASS
+2022-08-30 13:19:40.775 +07:00 [ERR] 0 waiting for XPath '//div[@class='slick-cell l2 r2']/div[contains(text(), 'PROCESS')]' failed: timeout 30000 ms exceeded
+2022-08-30 13:19:50.810 +07:00 [INF] - P - Campaigns Fitur - Clone - PASS
+2022-08-30 13:19:56.538 +07:00 [INF] - P - Broadcast Message Fitur - Filter Campaigns - PASS
+2022-08-30 13:19:59.497 +07:00 [INF] - P - Broadcast Message Fitur - Filter Contact - PASS
+2022-08-30 13:20:02.137 +07:00 [INF] - P - Broadcast Message Fitur - Filter Status - PASS
+2022-08-30 13:20:04.772 +07:00 [INF] - P - Broadcast Message Fitur - Filter Tags - PASS
+2022-08-30 13:20:07.692 +07:00 [INF] - P - Broadcast Message Fitur - Process By - PASS
+2022-08-30 13:20:10.627 +07:00 [INF] - P - Broadcast Message Fitur - Is Read - PASS
+2022-08-30 13:20:41.170 +07:00 [ERR] 2 waiting for XPath '//div[@class='slick-cell l1 r1']/a' failed: timeout 30000 ms exceeded
+2022-08-30 13:20:52.961 +07:00 [INF] - P - Message Template - Insert - PASS
+2022-08-30 13:20:54.240 +07:00 [INF] - P - Message Template - Read - PASS
+2022-08-30 13:20:56.045 +07:00 [INF] -P-Message Template  - Update - PASS
+2022-08-30 13:20:58.064 +07:00 [INF] - P - Message Template - Delete - PASS
+2022-08-30 13:21:01.759 +07:00 [INF] - P - Message Template Fitur - Search Channel - PASS
+2022-08-30 13:21:11.404 +07:00 [INF] - P - Campaigns - Tags - Insert - PASS
+2022-08-30 13:21:12.758 +07:00 [INF] - P - Campaigns - Tags - Read - PASS
+2022-08-30 13:21:13.938 +07:00 [INF] - P - Campaigns -Tags - Update - PASS
+2022-08-30 13:21:16.014 +07:00 [INF] - P - Campaigns - Tags - Delete - PASS

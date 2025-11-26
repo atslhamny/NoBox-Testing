@@ -1,0 +1,6 @@
+2022-08-24 11:34:33.760 +07:00 [INF] -N-AutoLogin-Blank Sign In-PASS
+2022-08-24 11:34:35.035 +07:00 [INF] 2 Value does not fall within the expected range.
+2022-08-24 11:34:36.694 +07:00 [INF] -N-AutoLogin-Blank Password-PASS
+2022-08-24 11:34:38.584 +07:00 [INF] -N-AutoLogin-Wrong Password-PASS
+2022-08-24 11:34:41.153 +07:00 [INF] -N-AutoLogin-Login No Captha-PASS
+2022-08-24 11:34:45.357 +07:00 [INF] 4 Response status code does not indicate success: 405 (HTTP method GET is not supported by this URL).

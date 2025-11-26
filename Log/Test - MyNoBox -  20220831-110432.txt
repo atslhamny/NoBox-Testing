@@ -1,0 +1,7 @@
+2022-08-31 11:05:39.410 +07:00 [INF] - P - Account - Insert - PASS
+2022-08-31 11:05:40.839 +07:00 [INF] - P - Account - Read - PASS
+2022-08-31 11:05:41.670 +07:00 [INF] - P - Account - Update - PASS
+2022-08-31 11:05:44.035 +07:00 [INF] - P - Account - Delete - PASS
+2022-08-31 11:05:46.766 +07:00 [INF] - P - Account Fitur - Search Category-PASS
+2022-08-31 11:05:49.406 +07:00 [INF] - P - Account Fitur - Search Users - PASS
+2022-08-31 11:05:51.904 +07:00 [INF] - P - Account Fitur - Search Status - PASS

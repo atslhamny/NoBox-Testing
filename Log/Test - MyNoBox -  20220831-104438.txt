@@ -1,0 +1,15 @@
+2022-08-31 10:44:59.119 +07:00 [ERR] 2 Value does not fall within the expected range.
+2022-08-31 10:45:36.525 +07:00 [INF] -P-Auto Login-PASS
+2022-08-31 10:52:21.066 +07:00 [INF] - P - Contacts -Insert - PASS
+2022-08-31 10:52:22.412 +07:00 [INF] - P - Contacts - Read - PASS
+2022-08-31 10:52:23.018 +07:00 [INF] - P - Contacts - Update - PASS
+2022-08-31 10:52:54.405 +07:00 [ERR] 3 waiting for XPath '//div[@class='slick-cell l0 r0']/a' failed: timeout 30000 ms exceeded
+2022-08-31 10:52:55.572 +07:00 [INF] - P - Contacts Fitur - Filter Category - PASS
+2022-08-31 10:52:58.460 +07:00 [INF] - P - Contacts Fitur - Filter Country - PASS
+2022-08-31 10:53:01.276 +07:00 [INF] - P - Contacts Fitur - Filter State - PASS
+2022-08-31 10:53:03.759 +07:00 [INF] - P - Contacts Fitur - Filter City - PASS
+2022-08-31 10:53:06.126 +07:00 [INF] - P - Contacts Fitur - Filter Tool - PASS
+2022-08-31 10:53:08.555 +07:00 [INF] - P - Contacts Fitur - Filter List - PASS
+2022-08-31 10:53:11.051 +07:00 [INF] - P - Contacts Fitur - Filter Tags - PASS
+2022-08-31 10:53:11.252 +07:00 [INF] - P - Contacts Fitur - Google Contacts - PASS
+2022-08-31 10:53:30.804 +07:00 [INF] - P - Contacts Fitur - VCard - PASS

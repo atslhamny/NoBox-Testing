@@ -1,0 +1,6 @@
+2022-08-31 18:36:41.452 +07:00 [ERR] 2 Value does not fall within the expected range.
+2022-08-31 18:36:43.896 +07:00 [INF] -N-AutoLogin-Blank Password-PASS
+2022-08-31 18:36:45.539 +07:00 [INF] -N-AutoLogin-Wrong Password-PASS
+2022-08-31 18:36:47.831 +07:00 [INF] -N-AutoLogin-Login No Captha-PASS
+2022-08-31 18:36:59.537 +07:00 [INF] -P-Auto Login-PASS
+2022-08-31 18:37:35.743 +07:00 [ERR] 1 waiting for XPath '//div[@title='Quick Message']' failed: timeout 30000 ms exceeded

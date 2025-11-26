@@ -1,0 +1,2 @@
+2022-08-31 18:24:12.315 +07:00 [ERR] 2 Value does not fall within the expected range.
+2022-08-31 18:24:59.321 +07:00 [ERR] 5 waiting for XPath '//div[text()='Dashboard']' failed: timeout 30000 ms exceeded

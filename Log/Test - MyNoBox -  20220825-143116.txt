@@ -1,0 +1,17 @@
+2022-08-25 14:32:12.144 +07:00 [INF] -P-Campaigns-Insert-PASS
+2022-08-25 14:32:15.130 +07:00 [INF] -P-Campaigns-Read-PASS
+2022-08-25 14:32:16.321 +07:00 [INF] -P-Campaigns-Update-PASS
+2022-08-25 14:32:19.078 +07:00 [INF] -P-Campaigns-Delete-PASS
+2022-08-25 14:32:20.284 +07:00 [INF] -P-Campaigns Fitur-Search-PASS
+2022-08-25 14:32:20.748 +07:00 [INF] -P-Campaigns Fitur-ChannelSearch-PASS
+2022-08-25 14:32:21.347 +07:00 [INF] -P-Campaigns Fitur-StatusSearch-PASS
+2022-08-25 14:32:21.887 +07:00 [INF] 1 Node is detached from document
+2022-08-25 14:32:22.321 +07:00 [INF] -P-Campaigns Fitur-ListSearch-PASS
+2022-08-25 14:32:22.804 +07:00 [INF] -P-Campaigns Fitur-TagsSearch-PASS
+2022-08-25 14:32:23.073 +07:00 [INF] -P-Campaigns Fitur-Refresh-PASS
+2022-08-25 14:32:23.714 +07:00 [INF] -P-Campaigns Fitur-ColumnPicker-PASS
+2022-08-25 14:32:24.259 +07:00 [INF] -P-Campaigns Fitur-Restore-PASS
+2022-08-25 14:32:24.752 +07:00 [INF] -P-Campaigns Fitur-Excel-PASS
+2022-08-25 14:32:25.405 +07:00 [INF] -P-Campaigns Fitur-PDF-PASS
+2022-08-25 14:32:26.536 +07:00 [INF] -P-Campaigns Fitur-AutoRefresh-PASS
+2022-08-25 14:32:27.950 +07:00 [INF] 2 Node is detached from document

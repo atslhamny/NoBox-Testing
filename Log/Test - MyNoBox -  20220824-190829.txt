@@ -1,0 +1,13 @@
+2022-08-24 19:09:14.734 +07:00 [INF] -P-Broadcast Message Fitur-Refresh-PASS
+2022-08-24 19:09:15.338 +07:00 [INF] -P-Broadcast Message Fitur-ColumnPicker-PASS
+2022-08-24 19:09:15.686 +07:00 [INF] -P-Broadcast Message Fitur-Restore-PASS
+2022-08-24 19:09:16.242 +07:00 [INF] -P-Broadcast Message Fitur-Excel-PASS
+2022-08-24 19:09:17.713 +07:00 [INF] -P-Broadcast Message Fitur-PDF-PASS
+2022-08-24 19:09:19.884 +07:00 [INF] -P-Broadcast Message Fitur-AutoRefresh-PASS
+2022-08-24 19:09:21.952 +07:00 [INF] -P-Broadcast Message Fitur-FilterCampaigns-PASS
+2022-08-24 19:09:23.088 +07:00 [INF] -P-Broadcast Message Fitur-FilterContact-PASS
+2022-08-24 19:09:23.839 +07:00 [INF] -P-Broadcast Message Fitur-FilterStatus-PASS
+2022-08-24 19:09:24.280 +07:00 [INF] -P-Broadcast Message Fitur-FilterTags-PASS
+2022-08-24 19:09:55.008 +07:00 [INF] 5 waiting for XPath '//div[@id='s2id_Nobox_Nobox_CampaignresultBroadcastGrid0_QuickFilter_ProcessBy']//abbr' failed: timeout 30000 ms exceeded
+2022-08-24 19:09:55.514 +07:00 [INF] -P-Broadcast Message Fitur-IsRead-PASS
+2022-08-24 19:10:25.679 +07:00 [INF] 2 waiting for XPath '//div[@class='slick-cell l1 r1']/a' failed: timeout 30000 ms exceeded

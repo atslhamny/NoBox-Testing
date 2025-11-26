@@ -1,0 +1,14 @@
+2022-08-29 16:13:54.934 +07:00 [INF] -P-Auto Login-PASS
+2022-08-29 16:14:08.065 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-29 16:14:09.815 +07:00 [INF] - P - Campaigns - Read - PASS
+2022-08-29 16:14:10.569 +07:00 [INF] - P - Campaigns - Update - PASS
+2022-08-29 16:14:12.966 +07:00 [INF] - P - Campaigns - Delete - PASS
+2022-08-29 16:14:15.817 +07:00 [INF] - P - Campaigns Fitur - Channel Search - PASS
+2022-08-29 16:14:18.280 +07:00 [INF] - P - Campaigns Fitur - Status Search - PASS
+2022-08-29 16:14:20.453 +07:00 [INF] - P - Campaigns Fitur - Account Search-PASS
+2022-08-29 16:14:22.892 +07:00 [INF] - P - Campaigns Fitur - List Search - PASS
+2022-08-29 16:14:25.375 +07:00 [INF] - P - Campaigns Fitur - Tags Search - PASS
+2022-08-29 16:14:59.073 +07:00 [ERR] 5 waiting for XPath '//button[text()='OK']' failed: timeout 30000 ms exceeded
+2022-08-29 16:15:03.729 +07:00 [INF] - P - Campaigns Fitur - Canceled - PASS
+2022-08-29 16:15:08.706 +07:00 [INF] - P - Campaigns Fitur - Clone - PASS
+2022-08-29 16:15:38.838 +07:00 [ERR] 2 waiting for XPath '//div[contains(@id, 's2id_Nobox_Nobox_CampaignresultBroadcastGrid0_QuickFilter_CampaignId')]' failed: timeout 30000 ms exceeded

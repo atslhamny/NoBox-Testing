@@ -1,0 +1,2 @@
+2022-08-31 14:43:18.982 +07:00 [INF] -P-Auto Login-PASS
+2022-08-31 14:44:06.591 +07:00 [ERR] 16 waiting for XPath '//div[@id='toast-container']' failed: timeout 30000 ms exceeded

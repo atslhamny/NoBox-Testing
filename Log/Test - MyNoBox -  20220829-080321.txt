@@ -1,0 +1,122 @@
+2022-08-29 08:04:14.466 +07:00 [INF] -P-Auto Login-PASS
+2022-08-29 08:04:46.351 +07:00 [ERR] 5 waiting for XPath '//div[contains(@class, 'add-button')]' failed: timeout 30000 ms exceeded
+2022-08-29 08:04:52.676 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-29 08:04:54.260 +07:00 [ERR] 1 Node is detached from document
+2022-08-29 08:05:04.030 +07:00 [INF] - P - Campaigns - Update - PASS
+2022-08-29 08:05:06.536 +07:00 [INF] - P - Campaigns - Delete - PASS
+2022-08-29 08:05:07.477 +07:00 [INF] - P - Campaigns Fitur - Search - PASS
+2022-08-29 08:05:09.973 +07:00 [INF] - P - Campaigns Fitur - Channel Search - PASS
+2022-08-29 08:05:12.621 +07:00 [INF] - P - Campaigns Fitur - Status Search - PASS
+2022-08-29 08:05:14.853 +07:00 [INF] - P - Campaigns Fitur - Account Search-PASS
+2022-08-29 08:05:17.363 +07:00 [INF] - P - Campaigns Fitur - List Search - PASS
+2022-08-29 08:05:21.767 +07:00 [INF] - P - Campaigns Fitur - Tags Search - PASS
+2022-08-29 08:05:22.232 +07:00 [INF] - P - Campaigns Fitur - Refresh - PASS
+2022-08-29 08:05:22.982 +07:00 [INF] - P - Campaigns Fitur - Column Picker - PASS
+2022-08-29 08:05:23.512 +07:00 [INF] - P - Campaigns Fitur - Restore - PASS
+2022-08-29 08:05:23.975 +07:00 [INF] - P - Campaigns Fitur - Excel - PASS
+2022-08-29 08:05:26.290 +07:00 [INF] - P - Campaigns Fitur - PDF - PASS
+2022-08-29 08:05:27.135 +07:00 [INF] - P - Campaigns Fitur - Auto Refresh - PASS
+2022-08-29 08:05:39.098 +07:00 [INF] - P - Campaigns Fitur - Process To Done- PASS
+2022-08-29 08:05:49.881 +07:00 [INF] - P - Campaigns Fitur - Canceled - PASS
+2022-08-29 08:05:54.783 +07:00 [INF] - P - Campaigns Fitur - Clone - PASS
+2022-08-29 08:05:58.122 +07:00 [INF] -P-Broadcast Message Fitur - Refresh - PASS
+2022-08-29 08:05:58.570 +07:00 [INF] -P-Broadcast Message Fitur - Column Picker - PASS
+2022-08-29 08:05:58.856 +07:00 [INF] - P - Broadcast Message Fitur - Restore - PASS
+2022-08-29 08:05:59.196 +07:00 [INF] - P - Broadcast Message Fitur - Excel - PASS
+2022-08-29 08:05:59.818 +07:00 [INF] - P - Broadcast Message Fitur - PDF - PASS
+2022-08-29 08:06:00.396 +07:00 [INF] - P - Broadcast Message Fitur - Auto Refresh - PASS
+2022-08-29 08:06:04.543 +07:00 [INF] - P - Broadcast Message Fitur - Filter Campaigns - PASS
+2022-08-29 08:06:06.776 +07:00 [INF] - P - Broadcast Message Fitur - Filter Contact - PASS
+2022-08-29 08:06:09.178 +07:00 [INF] - P - Broadcast Message Fitur - Filter Status - PASS
+2022-08-29 08:06:12.409 +07:00 [INF] - P - Broadcast Message Fitur - Filter Tags - PASS
+2022-08-29 08:06:14.915 +07:00 [INF] - P - Broadcast Message Fitur - Process By - PASS
+2022-08-29 08:06:17.360 +07:00 [INF] - P - Broadcast Message Fitur - Is Read - PASS
+2022-08-29 08:06:47.778 +07:00 [ERR] 2 waiting for XPath '//div[@class='slick-cell l1 r1']/a' failed: timeout 30000 ms exceeded
+2022-08-29 08:06:51.634 +07:00 [INF] - N - Message Template - Insert - PASS
+2022-08-29 08:06:52.677 +07:00 [INF] - P - Message Template - Insert - PASS
+2022-08-29 08:06:53.942 +07:00 [INF] - P - Message Template - Read - PASS
+2022-08-29 08:06:54.386 +07:00 [INF] -P-Message Template  - Update - PASS
+2022-08-29 08:06:55.916 +07:00 [INF] - P - Message Template - Delete - PASS
+2022-08-29 08:06:58.411 +07:00 [INF] - P - Message Template Fitur - Search Channel - PASS
+2022-08-29 08:06:58.711 +07:00 [INF] - P - Message Template Fitur - Search - PASS
+2022-08-29 08:06:58.858 +07:00 [INF] - P - Message Template Fitur - Refresh - PASS
+2022-08-29 08:06:59.331 +07:00 [INF] - P - Message Template Fitur - Column Picker-PASS
+2022-08-29 08:06:59.566 +07:00 [INF] - P - Message Template Fitur - Restore - PASS
+2022-08-29 08:06:59.941 +07:00 [INF] - P - Message Template Fitur - Excel - PASS
+2022-08-29 08:07:01.761 +07:00 [INF] - P - Message Template Fitur - PDF - PASS
+2022-08-29 08:07:05.046 +07:00 [INF] - P - Message Template Fitur - Auto Refresh - PASS
+2022-08-29 08:07:10.185 +07:00 [INF] - N - Campaigns - Tags - Insert - PASS
+2022-08-29 08:07:11.821 +07:00 [INF] - P - Campaigns - Tags - Insert - PASS
+2022-08-29 08:07:12.892 +07:00 [INF] - P - Campaigns - Tags - Read - PASS
+2022-08-29 08:07:13.215 +07:00 [INF] - P - Campaigns -Tags - Update - PASS
+2022-08-29 08:07:14.518 +07:00 [INF] - P - Campaigns - Tags - Delete - PASS
+2022-08-29 08:07:14.845 +07:00 [INF] - P - Campaigns Tags Fitur - Search - PASS
+2022-08-29 08:07:14.957 +07:00 [INF] - P - Campaigns Tags Fitur - Refresh - PASS
+2022-08-29 08:07:15.304 +07:00 [INF] - P - Campaigns Tags Fitur - Column Picker - PASS
+2022-08-29 08:07:15.526 +07:00 [INF] - P - Campaigns Tags Fitur - Restore - PASS
+2022-08-29 08:07:15.869 +07:00 [INF] - P - Campaigns Tags Fitur - Excel - PASS
+2022-08-29 08:07:17.398 +07:00 [INF] - P - Campaigns Tags Fitur - PDF - PASS
+2022-08-29 08:07:19.418 +07:00 [INF] - P - Campaigns Tags Fitur - Auto Refresh - PASS
+2022-08-29 08:07:24.232 +07:00 [INF] - N - Contacts - Insert - Name Blank-PASS
+2022-08-29 08:07:27.965 +07:00 [INF] - N - Contacts - Insert - Category Blank - PASS
+2022-08-29 08:07:31.824 +07:00 [INF] - P - Contacts -Insert - PASS
+2022-08-29 08:07:33.189 +07:00 [INF] - P - Contacts - Read - PASS
+2022-08-29 08:07:33.779 +07:00 [INF] - P - Contacts - Update - PASS
+2022-08-29 08:07:37.198 +07:00 [INF] - P - Contacts - Delete - PASS
+2022-08-29 08:07:38.604 +07:00 [INF] - P - Contacts Fitur - Filter Category - PASS
+2022-08-29 08:07:41.544 +07:00 [INF] - P - Contacts Fitur - Filter Country - PASS
+2022-08-29 08:07:44.161 +07:00 [INF] - P - Contacts Fitur - Filter State - PASS
+2022-08-29 08:07:46.886 +07:00 [INF] - P - Contacts Fitur - Filter City - PASS
+2022-08-29 08:07:49.406 +07:00 [INF] - P - Contacts Fitur - Filter Tool - PASS
+2022-08-29 08:07:51.931 +07:00 [INF] - P - Contacts Fitur - Filter List - PASS
+2022-08-29 08:07:54.249 +07:00 [INF] - P - Contacts Fitur - Filter Tags - PASS
+2022-08-29 08:07:54.379 +07:00 [INF] - P - Contacts Fitur - Refresh - PASS
+2022-08-29 08:07:54.708 +07:00 [INF] - P - Contacts Fitur - Column Picker - PASS
+2022-08-29 08:07:54.950 +07:00 [INF] - P - Contacts Fitur - Restore Grid - PASS
+2022-08-29 08:07:55.252 +07:00 [INF] - P - Contacts Fitur - Excel - PASS
+2022-08-29 08:07:56.172 +07:00 [INF] - P - Contacts Fitur - PDF - PASS
+2022-08-29 08:07:58.805 +07:00 [INF] - P - Contacts Fitur - Auto Refresh - PASS
+2022-08-29 08:07:58.921 +07:00 [INF] - P - Contacts Fitur - Google Contacts - PASS
+2022-08-29 08:08:09.714 +07:00 [INF] - P - Contacts Fitur - VCard - PASS
+2022-08-29 08:08:13.413 +07:00 [INF] -N  - List - Insert - PASS
+2022-08-29 08:08:15.134 +07:00 [INF] - P - List - Insert - PASS
+2022-08-29 08:08:16.368 +07:00 [INF] - P - List - Read - PASS
+2022-08-29 08:08:17.405 +07:00 [INF] - P - List - Update - PASS
+2022-08-29 08:08:17.718 +07:00 [INF] -P-List Fitur-Refresh-PASS
+2022-08-29 08:08:18.200 +07:00 [INF] - P - List Fitur - Column Picker - PASS
+2022-08-29 08:08:18.738 +07:00 [INF] -P-List Fitur-Restore Grid-PASS
+2022-08-29 08:08:19.030 +07:00 [INF] -P-List Fitur-Excel-PASS
+2022-08-29 08:08:19.721 +07:00 [INF] -P-List Fitur-PDF-PASS
+2022-08-29 08:08:20.811 +07:00 [INF] -P-List Fitur-Auto Refresh-PASS
+2022-08-29 08:08:22.169 +07:00 [INF] -P-List Fitur-Search-PASS
+2022-08-29 08:08:54.149 +07:00 [ERR] 4 waiting for XPath '//span[@class='select-all-items check-box no-float']' failed: timeout 30000 ms exceeded
+2022-08-29 08:09:24.381 +07:00 [ERR] 3 waiting for XPath '//div[@class='slick-cell l0 r0']/a' failed: timeout 30000 ms exceeded
+2022-08-29 08:09:31.894 +07:00 [INF] -P-List Fitur-Delete All Contact-PASS
+2022-08-29 08:09:32.384 +07:00 [INF] -P-List Fitur-Delete-PASS
+2022-08-29 08:09:35.801 +07:00 [INF] -N-Contact Tags-Insert-NameBlank-PASS
+2022-08-29 08:09:37.356 +07:00 [INF] -P-Contact Tags-Insert-PASS
+2022-08-29 08:09:38.505 +07:00 [INF] -P-Contact Tags-Read-PASS
+2022-08-29 08:09:38.978 +07:00 [INF] -P-Contact Tags-Update-PASS
+2022-08-29 08:09:40.488 +07:00 [INF] -P-Contact Tags-Delete:
+2022-08-29 08:09:40.812 +07:00 [INF] -P-Contact Tags Fitur-Search-PASS
+2022-08-29 08:09:40.947 +07:00 [INF] -P-Contact Tags Fitur-Refresh-PASS
+2022-08-29 08:09:41.333 +07:00 [INF] -P-Contact Tags Fitur-Column Picker-PASS
+2022-08-29 08:09:41.664 +07:00 [INF] -P-Contact Tags Fitur-Restore-PASS
+2022-08-29 08:09:41.979 +07:00 [INF] -P-Contact Tags Fitur-Excel-PASS
+2022-08-29 08:09:44.590 +07:00 [INF] -P-Contact Tags Fitur-PDF-PASS
+2022-08-29 08:09:44.988 +07:00 [INF] -P-Contact Tags Fitur-Auto Refresh-PASS
+2022-08-29 08:10:20.267 +07:00 [ERR] 8 waiting for XPath '//div[contains(@class, 'ApiClient')]/input' failed: timeout 30000 ms exceeded
+2022-08-29 08:10:31.015 +07:00 [INF] - P - Account - Insert - PASS
+2022-08-29 08:10:32.270 +07:00 [INF] - P - Account - Read - PASS
+2022-08-29 08:10:33.017 +07:00 [INF] - P - Account - Update - PASS
+2022-08-29 08:10:35.036 +07:00 [INF] - P - Account - Delete - PASS
+2022-08-29 08:10:37.821 +07:00 [INF] - P - Account Fitur - Search Category-PASS
+2022-08-29 08:10:38.279 +07:00 [INF] - P - Account Fitur - Search - PASS
+2022-08-29 08:10:40.727 +07:00 [INF] - P - Account Fitur - Search Users - PASS
+2022-08-29 08:10:43.272 +07:00 [INF] - P - Account Fitur - Search Status - PASS
+2022-08-29 08:10:43.464 +07:00 [INF] -P-Account Fitur - Refresh - PASS
+2022-08-29 08:10:43.925 +07:00 [INF] - P - Account Fitur - Column Picker-PASS
+2022-08-29 08:10:44.289 +07:00 [INF] - P - Account Fitur - Restore - PASS
+2022-08-29 08:10:44.597 +07:00 [INF]  - P - Account Fitur - Excel - PASS
+2022-08-29 08:10:45.315 +07:00 [INF] - P - Account Fitur - PDF - PASS
+2022-08-29 08:10:47.086 +07:00 [INF] - P - Account Fitur - Timer - PASS

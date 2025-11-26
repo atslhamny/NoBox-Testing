@@ -1,0 +1,16 @@
+2022-08-26 20:54:14.926 +07:00 [ERR] 2 Value does not fall within the expected range.
+2022-08-26 20:54:49.373 +07:00 [INF] -P-Auto Login-PASS
+2022-08-26 20:55:32.173 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-26 20:55:35.136 +07:00 [INF] - P - Campaigns - Read - PASS
+2022-08-26 20:55:36.244 +07:00 [INF] - P - Campaigns - Update - PASS
+2022-08-26 20:55:40.434 +07:00 [INF] - P - Campaigns - Delete - PASS
+2022-08-26 20:55:41.477 +07:00 [INF] - P - Campaigns Fitur - Search - PASS
+2022-08-26 20:55:43.802 +07:00 [INF] - P - Campaigns Fitur - Channel Search - PASS
+2022-08-26 20:55:46.102 +07:00 [INF] - P - Campaigns Fitur - Status Search - PASS
+2022-08-26 20:56:40.496 +07:00 [ERR] 2 waiting for XPath '//a[@class='select2-search-choice-close']' failed: timeout 30000 ms exceeded
+2022-08-26 20:56:44.448 +07:00 [INF] - P - Campaigns Fitur - List Search - PASS
+2022-08-26 20:56:47.061 +07:00 [INF] - P - Campaigns Fitur - Tags Search - PASS
+2022-08-26 20:56:47.436 +07:00 [INF] - P - Campaigns Fitur - Refresh - PASS
+2022-08-26 20:56:48.175 +07:00 [INF] - P - Campaigns Fitur - Column Picker - PASS
+2022-08-26 20:56:50.316 +07:00 [INF] - P - Campaigns Fitur - Restore - PASS
+2022-08-26 20:56:53.277 +07:00 [INF] - P - Campaigns Fitur - Excel - PASS

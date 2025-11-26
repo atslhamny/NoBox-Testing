@@ -1,0 +1,9 @@
+2022-08-31 13:25:30.337 +07:00 [ERR] 2 Value does not fall within the expected range.
+2022-08-31 13:25:55.543 +07:00 [INF] -P-Auto Login-PASS
+2022-08-31 13:27:01.916 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-31 13:27:03.902 +07:00 [INF] - P - Campaigns - Read - PASS
+2022-08-31 13:27:04.647 +07:00 [INF] - P - Campaigns - Update - PASS
+2022-08-31 13:27:07.587 +07:00 [INF] - P - Campaigns - Delete - PASS
+2022-08-31 13:27:40.684 +07:00 [ERR] 16 waiting for XPath '//button[contains(@class, 'panel-titlebar-close')]' failed: timeout 30000 ms exceeded
+2022-08-31 13:28:11.918 +07:00 [ERR] 2 waiting for XPath '//div[@id='s2id_Nobox_Nobox_CampaignDirectDialog12_Contact']/ul/li/input' failed: timeout 30000 ms exceeded
+2022-08-31 13:28:43.082 +07:00 [ERR] 2 waiting for XPath '//div[@id='s2id_Nobox_Nobox_CampaignDirectDialog12_Contact']/ul/li/input' failed: timeout 30000 ms exceeded

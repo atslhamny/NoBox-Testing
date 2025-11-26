@@ -1,0 +1,12 @@
+2022-08-26 10:24:59.468 +07:00 [INF] -N-Campaigns-Tags-Insert-PASS
+2022-08-26 10:25:00.957 +07:00 [INF] -P-Campaigns-Tags-Insert-PASS
+2022-08-26 10:25:01.219 +07:00 [INF] -P-Campaigns-Tags-Read-PASS
+2022-08-26 10:25:01.456 +07:00 [INF] -P-Campaigns-Tags-Update-PASS
+2022-08-26 10:25:32.129 +07:00 [INF] 4 waiting for XPath '//div[contains(@class, 'delete-button')]' failed: timeout 30000 ms exceeded
+2022-08-26 10:25:32.452 +07:00 [INF] -P-Campaigns Tags Fitur-Search-PASS
+2022-08-26 10:25:32.745 +07:00 [INF] -P-Campaigns Tags Fitur-Refresh-PASS
+2022-08-26 10:25:33.230 +07:00 [INF] -P-Campaigns Tags Fitur-Column Picker-PASS
+2022-08-26 10:25:33.569 +07:00 [INF] -P-Campaigns Tags Fitur-Restore-PASS
+2022-08-26 10:25:34.096 +07:00 [INF] -P-Campaigns Tags Fitur-Excel-PASS
+2022-08-26 10:25:37.889 +07:00 [INF] -P-Campaigns Tags Fitur-PDF-PASS
+2022-08-26 10:25:38.077 +07:00 [INF] -P-Campaigns Tags Fitur-Auto Refresh-PASS

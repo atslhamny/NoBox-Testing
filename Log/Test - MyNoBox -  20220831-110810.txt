@@ -1,0 +1,14 @@
+2022-08-31 11:08:43.391 +07:00 [ERR] 2 Value does not fall within the expected range.
+2022-08-31 11:09:17.118 +07:00 [INF] -P-Auto Login-PASS
+2022-08-31 11:10:27.229 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-31 11:10:28.502 +07:00 [INF] - P - Campaigns - Read - PASS
+2022-08-31 11:10:58.988 +07:00 [ERR] 0 waiting for XPath '//div[contains(@class, 'save-and-close-button')]' failed: timeout 30000 ms exceeded
+2022-08-31 11:11:02.846 +07:00 [INF] - P - Campaigns - Delete - PASS
+2022-08-31 11:11:06.022 +07:00 [INF] - P - Campaigns Fitur - Channel Search - PASS
+2022-08-31 11:11:08.552 +07:00 [INF] - P - Campaigns Fitur - Status Search - PASS
+2022-08-31 11:11:20.153 +07:00 [INF] - P - Campaigns Fitur - Account Search-PASS
+2022-08-31 11:11:23.049 +07:00 [INF] - P - Campaigns Fitur - List Search - PASS
+2022-08-31 11:11:25.985 +07:00 [INF] - P - Campaigns Fitur - Tags Search - PASS
+2022-08-31 11:12:00.283 +07:00 [ERR] 5 waiting for XPath '//button[text()='OK']' failed: timeout 30000 ms exceeded
+2022-08-31 11:12:07.870 +07:00 [INF] - P - Campaigns Fitur - Canceled - PASS
+2022-08-31 11:12:14.414 +07:00 [INF] - P - Campaigns Fitur - Clone - PASS

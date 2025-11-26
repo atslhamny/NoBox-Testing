@@ -1,0 +1,2 @@
+2022-08-29 07:52:50.010 +07:00 [ERR] 2 Value does not fall within the expected range.
+2022-08-29 07:53:10.096 +07:00 [INF] -P-Auto Login-PASS

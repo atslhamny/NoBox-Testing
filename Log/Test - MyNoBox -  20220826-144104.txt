@@ -1,0 +1,18 @@
+2022-08-26 14:41:57.827 +07:00 [INF] - N - Account - Insert - PASS
+2022-08-26 14:42:02.150 +07:00 [INF] - P - Account - Insert - PASS
+2022-08-26 14:42:02.227 +07:00 [INF] - P - Account - Read - PASS
+2022-08-26 14:42:11.205 +07:00 [INF] - P - Account - Update - PASS
+2022-08-26 14:42:12.771 +07:00 [INF] - P - Account - Delete - PASS
+2022-08-26 14:42:14.713 +07:00 [INF] - P - Account Fitur - Search Category-PASS
+2022-08-26 14:42:15.064 +07:00 [INF] - P - Account Fitur - Search - PASS
+2022-08-26 14:42:16.344 +07:00 [INF] - P - Account Fitur - Search Users - PASS
+2022-08-26 14:42:17.904 +07:00 [INF] - P - Account Fitur - Search Status - PASS
+2022-08-26 14:42:17.945 +07:00 [INF] -P-Account Fitur - Refresh - PASS
+2022-08-26 14:42:18.334 +07:00 [INF] - P - Account Fitur - Column Picker-PASS
+2022-08-26 14:42:18.681 +07:00 [INF] - P - Account Fitur - Restore - PASS
+2022-08-26 14:42:19.024 +07:00 [INF]  - P - Account Fitur - Excel - PASS
+2022-08-26 14:42:19.791 +07:00 [INF] - P - Account Fitur - PDF - PASS
+2022-08-26 14:42:20.039 +07:00 [INF] - P - Account Fitur - Timer - PASS
+2022-08-26 14:42:31.704 +07:00 [INF] - N - Contacts - Insert - Name Blank-PASS
+2022-08-26 14:42:34.341 +07:00 [INF] - N - Contacts - Insert - Category Blank - PASS
+2022-08-26 14:42:37.263 +07:00 [INF] - P - Contacts -Insert - PASS

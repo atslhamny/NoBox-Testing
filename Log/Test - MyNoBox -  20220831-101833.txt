@@ -1,0 +1,29 @@
+2022-08-31 10:19:14.814 +07:00 [INF] -P-Auto Login-PASS
+2022-08-31 10:20:44.545 +07:00 [INF] - P - Campaigns - Insert - PASS
+2022-08-31 10:20:46.310 +07:00 [ERR] 1 Node is detached from document
+2022-08-31 10:20:55.194 +07:00 [INF] - P - Campaigns - Update - PASS
+2022-08-31 10:20:58.405 +07:00 [INF] - P - Campaigns - Delete - PASS
+2022-08-31 10:21:01.720 +07:00 [INF] - P - Campaigns Fitur - Channel Search - PASS
+2022-08-31 10:21:04.577 +07:00 [INF] - P - Campaigns Fitur - Status Search - PASS
+2022-08-31 10:21:36.942 +07:00 [ERR] 2 waiting for XPath '//a[@class='select2-search-choice-close']' failed: timeout 30000 ms exceeded
+2022-08-31 10:21:39.562 +07:00 [INF] - P - Campaigns Fitur - List Search - PASS
+2022-08-31 10:21:42.266 +07:00 [INF] - P - Campaigns Fitur - Tags Search - PASS
+2022-08-31 10:21:53.234 +07:00 [INF] - P - Campaigns Fitur - Process To Done- PASS
+2022-08-31 10:22:01.220 +07:00 [ERR] 0 Node is either not visible or not an HTMLElement
+2022-08-31 10:22:02.572 +07:00 [ERR] 0 Node is either not visible or not an HTMLElement
+2022-08-31 10:22:07.239 +07:00 [INF] - P - Broadcast Message Fitur - Filter Campaigns - PASS
+2022-08-31 10:22:09.702 +07:00 [INF] - P - Broadcast Message Fitur - Filter Contact - PASS
+2022-08-31 10:22:12.191 +07:00 [INF] - P - Broadcast Message Fitur - Filter Status - PASS
+2022-08-31 10:22:14.641 +07:00 [INF] - P - Broadcast Message Fitur - Filter Tags - PASS
+2022-08-31 10:22:17.153 +07:00 [INF] - P - Broadcast Message Fitur - Process By - PASS
+2022-08-31 10:22:19.652 +07:00 [INF] - P - Broadcast Message Fitur - Is Read - PASS
+2022-08-31 10:22:50.137 +07:00 [ERR] 2 waiting for XPath '//div[@class='slick-cell l1 r1']/a' failed: timeout 30000 ms exceeded
+2022-08-31 10:23:04.733 +07:00 [INF] - P - Message Template - Insert - PASS
+2022-08-31 10:23:06.074 +07:00 [INF] - P - Message Template - Read - PASS
+2022-08-31 10:23:06.534 +07:00 [INF] -P-Message Template  - Update - PASS
+2022-08-31 10:23:08.107 +07:00 [INF] - P - Message Template - Delete - PASS
+2022-08-31 10:23:40.483 +07:00 [ERR] 4 waiting for XPath '//span[text()='Channel']/following-sibling::div//abbr' failed: timeout 30000 ms exceeded
+2022-08-31 10:23:46.742 +07:00 [INF] - P - Campaigns - Tags - Insert - PASS
+2022-08-31 10:23:47.972 +07:00 [INF] - P - Campaigns - Tags - Read - PASS
+2022-08-31 10:23:48.419 +07:00 [INF] - P - Campaigns -Tags - Update - PASS
+2022-08-31 10:23:49.897 +07:00 [INF] - P - Campaigns - Tags - Delete - PASS
